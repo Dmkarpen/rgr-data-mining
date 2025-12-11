@@ -1,0 +1,1001 @@
+date,movie_title,genre,ticket_price,day_of_week,start_time,hall_capacity,tickets_sold,occupancy,movie_rating,age_restriction,marketing_spend,weather,holiday
+2024-04-12,Love in Paris,Romance,123.93,Mon,20:00,120,53,44.17,5.7,PG-13,17721.72,Cloudy,0
+2024-12-14,Space Odyssey,Sci-Fi,151.9,Sat,10:00,150,101,67.33,10.0,18+,17913.8,Sunny,0
+2024-09-27,Mystery Case,Detective,115.58,Tue,12:30,120,62,51.67,4.6,G,5945.74,Snow,0
+2024-04-16,Thunder Strike,Action,134.62,Sat,15:00,150,83,55.33,7.3,18+,4599.88,Sunny,1
+2024-03-12,Thunder Strike,Action,190.25,Sat,22:30,250,83,33.2,10.0,18+,8226.08,Cloudy,0
+2024-07-07,Haunted Manor,Horror,126.92,Fri,10:00,250,103,41.2,7.0,PG-13,4810.63,Snow,0
+2024-01-21,Love in Paris,Romance,183.43,Mon,17:30,250,106,42.4,6.7,R,13447.68,Rainy,1
+2024-04-12,Love in Paris,Romance,104.81,Mon,17:30,200,62,31.0,6.5,G,16521.29,Sunny,0
+2024-05-01,Rock Legends,Musical,171.19,Sun,22:30,80,67,83.75,6.7,PG-13,13461.84,Sunny,1
+2024-08-02,Space Odyssey,Sci-Fi,207.66,Wed,20:00,250,79,31.6,9.1,R,16487.01,Rainy,0
+2024-11-26,Space Odyssey,Sci-Fi,60.0,Tue,15:00,120,66,55.0,3.7,R,7939.84,Rainy,0
+2024-03-28,Love in Paris,Romance,118.12,Tue,12:30,250,87,34.8,9.3,G,3126.34,Cloudy,0
+2024-04-09,Thunder Strike,Action,173.08,Sun,20:00,200,48,24.0,4.9,18+,14759.02,Sunny,0
+2024-12-25,Thunder Strike,Action,141.88,Fri,22:30,120,68,56.67,6.6,PG,7209.49,Snow,0
+2024-05-31,Space Odyssey,Sci-Fi,164.85,Tue,20:00,200,63,31.5,6.4,18+,13425.42,Sunny,0
+2024-05-10,Thunder Strike,Action,125.84,Mon,12:30,120,80,66.67,7.9,18+,5412.88,Cloudy,0
+2024-05-29,Rock Legends,Musical,153.46,Sun,12:30,150,60,40.0,4.6,PG,1624.59,Snow,0
+2024-11-04,Thunder Strike,Action,143.77,Sun,17:30,80,80,100.0,7.7,R,19851.64,Snow,0
+2024-09-14,Deep Ocean,Documentary,196.71,Fri,20:00,80,80,100.0,10.0,PG,3124.03,Snow,0
+2024-12-09,Mystery Case,Detective,160.18,Tue,10:00,200,42,21.0,5.0,PG,19768.42,Cloudy,0
+2024-10-20,Space Odyssey,Sci-Fi,163.5,Fri,10:00,80,75,93.75,7.3,PG-13,19545.6,Sunny,0
+2024-07-10,Haunted Manor,Horror,133.52,Tue,20:00,200,113,56.5,6.0,PG-13,15876.36,Snow,1
+2024-10-03,Rock Legends,Musical,130.5,Sun,12:30,200,83,41.5,7.6,PG-13,13188.46,Rainy,0
+2024-06-09,Cartoon Fun,Animation,132.7,Sun,15:00,200,110,55.0,7.0,R,11556.14,Cloudy,1
+2024-11-09,Mystery Case,Detective,165.78,Tue,12:30,80,71,88.75,6.0,PG,17322.03,Snow,0
+2024-01-22,Haunted Manor,Horror,133.16,Wed,12:30,200,69,34.5,7.7,G,5788.79,Cloudy,0
+2024-09-09,Thunder Strike,Action,161.59,Sun,15:00,80,80,100.0,9.7,PG,9353.62,Rainy,0
+2024-08-23,Cartoon Fun,Animation,233.02,Tue,22:30,200,50,25.0,6.7,R,12387.8,Snow,0
+2024-12-10,Love in Paris,Romance,184.84,Sun,12:30,250,77,30.8,8.1,PG-13,8223.81,Sunny,0
+2024-02-18,Love in Paris,Romance,136.96,Fri,15:00,200,58,29.0,5.1,R,8549.73,Cloudy,0
+2024-02-28,Rock Legends,Musical,198.05,Mon,20:00,120,47,39.17,5.6,PG-13,6605.69,Snow,0
+2024-06-18,Love in Paris,Romance,133.68,Wed,15:00,200,97,48.5,7.7,R,11284.64,Snow,0
+2024-07-06,Cartoon Fun,Animation,68.48,Sun,10:00,150,132,88.0,9.2,G,17011.49,Cloudy,0
+2024-09-27,Cartoon Fun,Animation,109.68,Tue,15:00,200,120,60.0,7.5,PG-13,4030.57,Rainy,0
+2024-07-08,Mystery Case,Detective,75.17,Tue,12:30,120,82,68.33,6.5,PG-13,18688.66,Cloudy,0
+2024-06-23,Space Odyssey,Sci-Fi,135.94,Fri,22:30,120,86,71.67,7.0,PG,13781.75,Sunny,0
+2024-02-20,Deep Ocean,Documentary,150.74,Wed,20:00,80,62,77.5,5.1,R,16465.46,Rainy,0
+2024-12-29,Love in Paris,Romance,217.06,Sun,15:00,250,58,23.2,7.9,18+,11123.81,Sunny,0
+2024-02-24,Rock Legends,Musical,163.08,Tue,12:30,200,90,45.0,8.3,18+,15590.33,Sunny,0
+2024-08-31,Love in Paris,Romance,141.24,Mon,22:30,80,64,80.0,6.3,PG,324.01,Cloudy,0
+2024-11-15,Mystery Case,Detective,183.18,Sat,15:00,250,66,26.4,6.3,R,16367.61,Snow,0
+2024-05-10,Cartoon Fun,Animation,61.55,Sun,20:00,200,114,57.0,7.4,G,802.78,Rainy,0
+2024-11-02,Thunder Strike,Action,159.42,Mon,20:00,150,69,46.0,6.3,PG,17798.27,Sunny,0
+2024-05-14,Love in Paris,Romance,180.83,Tue,10:00,200,84,42.0,6.9,PG-13,19839.25,Snow,0
+2024-01-21,Space Odyssey,Sci-Fi,90.86,Mon,20:00,120,120,100.0,10.0,G,5881.35,Snow,1
+2024-11-24,Thunder Strike,Action,195.75,Wed,22:30,120,81,67.5,6.6,R,4206.37,Snow,1
+2024-06-15,Mystery Case,Detective,163.54,Sun,12:30,150,73,48.67,6.5,PG-13,15307.27,Rainy,0
+2024-09-30,Love in Paris,Romance,133.39,Sun,20:00,80,78,97.5,6.0,18+,5060.53,Snow,0
+2024-03-29,Thunder Strike,Action,175.31,Tue,20:00,250,66,26.4,8.1,R,17311.25,Cloudy,0
+2024-11-11,Love in Paris,Romance,240.83,Fri,12:30,200,52,26.0,6.7,PG-13,2056.85,Sunny,0
+2024-01-14,Rock Legends,Musical,157.27,Wed,12:30,120,70,58.33,6.0,R,2519.1,Snow,0
+2024-08-29,Mystery Case,Detective,159.93,Mon,22:30,80,80,100.0,9.0,PG-13,19583.03,Sunny,0
+2024-09-21,Deep Ocean,Documentary,131.63,Tue,20:00,150,127,84.67,9.1,R,13476.78,Rainy,1
+2024-12-11,Cartoon Fun,Animation,116.01,Wed,22:30,120,60,50.0,6.1,18+,16937.74,Sunny,0
+2024-02-22,Haunted Manor,Horror,183.21,Mon,20:00,150,52,34.67,4.2,PG,6486.59,Snow,0
+2024-12-05,Cartoon Fun,Animation,115.76,Tue,15:00,200,104,52.0,8.5,PG-13,13529.67,Rainy,0
+2024-04-01,Cartoon Fun,Animation,152.86,Sat,20:00,250,61,24.4,6.0,PG-13,11884.84,Rainy,0
+2024-09-20,Thunder Strike,Action,130.89,Thu,10:00,120,102,85.0,8.2,18+,12063.0,Rainy,0
+2024-02-04,Mystery Case,Detective,169.16,Fri,10:00,120,54,45.0,4.0,PG,13650.65,Rainy,1
+2024-07-24,Love in Paris,Romance,163.35,Mon,10:00,200,77,38.5,8.3,R,11507.18,Rainy,0
+2024-03-21,Haunted Manor,Horror,191.5,Sat,10:00,80,41,51.25,5.2,PG-13,8581.25,Sunny,0
+2024-02-19,Thunder Strike,Action,129.6,Mon,22:30,250,105,42.0,8.1,PG,5518.45,Snow,0
+2024-12-25,Haunted Manor,Horror,139.21,Thu,20:00,120,74,61.67,7.0,R,15371.63,Sunny,0
+2024-01-02,Deep Ocean,Documentary,110.85,Thu,15:00,250,71,28.4,5.6,PG-13,4525.45,Snow,0
+2024-02-23,Rock Legends,Musical,132.23,Sun,22:30,120,79,65.83,6.4,PG-13,13847.09,Rainy,0
+2024-04-15,Mystery Case,Detective,165.09,Wed,12:30,250,108,43.2,8.0,R,4666.66,Rainy,0
+2024-09-16,Thunder Strike,Action,180.28,Fri,20:00,150,61,40.67,7.2,18+,12506.6,Cloudy,0
+2024-11-05,Cartoon Fun,Animation,113.11,Fri,17:30,120,79,65.83,7.9,PG,14941.57,Cloudy,0
+2024-07-09,Space Odyssey,Sci-Fi,184.78,Mon,20:00,250,79,31.6,10.0,PG-13,4374.28,Sunny,0
+2024-08-05,Thunder Strike,Action,204.23,Thu,22:30,80,37,46.25,4.7,R,1198.87,Sunny,0
+2024-02-13,Space Odyssey,Sci-Fi,166.54,Fri,10:00,150,117,78.0,9.4,PG-13,2619.47,Snow,0
+2024-06-10,Cartoon Fun,Animation,225.07,Tue,17:30,150,56,37.33,7.2,R,12119.94,Snow,0
+2024-07-20,Rock Legends,Musical,119.05,Fri,22:30,80,67,83.75,5.7,PG-13,16988.93,Cloudy,0
+2024-09-26,Mystery Case,Detective,100.21,Mon,20:00,250,47,18.8,5.0,G,899.94,Cloudy,0
+2024-12-16,Love in Paris,Romance,78.85,Sat,15:00,200,96,48.0,6.7,18+,14683.03,Snow,0
+2024-10-30,Thunder Strike,Action,209.84,Sun,22:30,80,74,92.5,8.4,PG,6826.37,Sunny,0
+2024-09-27,Cartoon Fun,Animation,176.17,Sun,15:00,250,69,27.6,6.8,18+,9570.57,Snow,0
+2024-08-02,Thunder Strike,Action,147.78,Sat,17:30,80,80,100.0,9.3,18+,18577.19,Sunny,0
+2024-09-08,Deep Ocean,Documentary,161.2,Fri,12:30,80,49,61.25,4.8,PG,6639.43,Snow,0
+2024-07-08,Rock Legends,Musical,104.98,Wed,22:30,120,105,87.5,7.0,18+,9306.74,Rainy,0
+2024-10-22,Deep Ocean,Documentary,247.83,Thu,17:30,250,33,13.2,5.1,G,273.65,Rainy,0
+2024-07-31,Haunted Manor,Horror,155.17,Sat,15:00,200,84,42.0,7.5,R,1631.97,Sunny,0
+2024-07-26,Mystery Case,Detective,154.38,Mon,17:30,120,72,60.0,8.3,PG,5171.83,Sunny,0
+2024-08-24,Haunted Manor,Horror,179.03,Mon,10:00,80,66,82.5,6.4,R,557.04,Sunny,0
+2024-12-03,Thunder Strike,Action,169.24,Thu,22:30,80,27,33.75,3.1,PG-13,12627.51,Cloudy,0
+2024-02-22,Mystery Case,Detective,158.96,Sun,10:00,80,77,96.25,7.3,G,8527.97,Cloudy,0
+2024-10-06,Rock Legends,Musical,118.38,Thu,12:30,250,94,37.6,7.7,R,10962.9,Snow,0
+2024-08-04,Rock Legends,Musical,168.86,Thu,17:30,250,82,32.8,7.6,R,3492.94,Cloudy,0
+2024-09-08,Cartoon Fun,Animation,225.28,Sat,17:30,120,67,55.83,8.9,PG,5918.64,Snow,0
+2024-07-06,Thunder Strike,Action,203.82,Mon,17:30,200,46,23.0,5.4,PG-13,13276.49,Snow,0
+2024-02-10,Haunted Manor,Horror,213.73,Thu,17:30,120,75,62.5,8.0,PG,19306.05,Snow,0
+2024-06-05,Deep Ocean,Documentary,129.55,Sat,12:30,150,78,52.0,8.8,PG-13,1008.34,Sunny,0
+2024-01-15,Love in Paris,Romance,110.42,Thu,15:00,80,51,63.75,4.3,PG,17807.69,Rainy,0
+2024-10-27,Space Odyssey,Sci-Fi,144.97,Mon,20:00,80,80,100.0,7.5,R,11537.62,Cloudy,1
+2024-03-05,Love in Paris,Romance,152.23,Mon,12:30,80,80,100.0,6.2,R,11278.39,Snow,1
+2024-12-10,Haunted Manor,Horror,193.77,Wed,15:00,120,87,72.5,6.9,G,10005.57,Rainy,1
+2024-11-22,Haunted Manor,Horror,82.3,Fri,22:30,120,120,100.0,7.5,R,1387.88,Snow,0
+2024-01-09,Rock Legends,Musical,211.18,Tue,15:00,80,50,62.5,6.3,18+,1797.54,Sunny,0
+2024-12-09,Love in Paris,Romance,143.68,Mon,22:30,120,66,55.0,6.0,R,12018.24,Snow,0
+2024-05-08,Rock Legends,Musical,132.92,Tue,15:00,250,80,32.0,7.1,18+,6819.17,Cloudy,0
+2024-05-15,Rock Legends,Musical,109.52,Wed,17:30,250,77,30.8,5.4,R,18345.36,Rainy,0
+2024-03-03,Deep Ocean,Documentary,83.81,Fri,12:30,120,78,65.0,5.4,18+,8131.81,Sunny,0
+2024-05-18,Mystery Case,Detective,182.93,Sat,15:00,80,77,96.25,8.0,18+,2865.63,Snow,0
+2024-03-21,Space Odyssey,Sci-Fi,152.93,Fri,20:00,120,55,45.83,5.3,R,14294.38,Cloudy,0
+2024-06-11,Love in Paris,Romance,98.4,Fri,20:00,120,76,63.33,8.0,18+,5867.07,Cloudy,0
+2024-10-15,Mystery Case,Detective,98.2,Sat,10:00,120,99,82.5,7.7,G,10509.41,Sunny,1
+2024-09-17,Cartoon Fun,Animation,136.57,Wed,15:00,150,36,24.0,4.4,PG-13,13956.66,Cloudy,0
+2024-08-18,Love in Paris,Romance,216.76,Thu,12:30,250,55,22.0,6.0,18+,18005.28,Cloudy,0
+2024-02-10,Mystery Case,Detective,139.62,Fri,17:30,200,132,66.0,8.8,18+,15843.82,Cloudy,1
+2024-01-28,Rock Legends,Musical,89.87,Fri,10:00,200,73,36.5,5.5,G,13527.22,Cloudy,0
+2024-05-14,Haunted Manor,Horror,140.17,Wed,15:00,150,78,52.0,6.3,G,13592.66,Snow,0
+2024-07-19,Deep Ocean,Documentary,139.09,Thu,17:30,120,73,60.83,7.7,PG,18918.49,Sunny,0
+2024-11-23,Space Odyssey,Sci-Fi,60.0,Fri,12:30,150,109,72.67,8.2,PG-13,5916.48,Rainy,0
+2024-09-24,Mystery Case,Detective,147.83,Fri,12:30,150,95,63.33,6.6,PG,22.24,Rainy,1
+2024-02-02,Haunted Manor,Horror,140.76,Thu,10:00,80,59,73.75,6.1,18+,5439.09,Cloudy,0
+2024-02-17,Love in Paris,Romance,177.85,Mon,10:00,250,109,43.6,9.1,G,4357.83,Snow,0
+2024-03-02,Mystery Case,Detective,223.96,Sun,15:00,200,73,36.5,9.6,18+,13236.69,Cloudy,0
+2024-08-03,Thunder Strike,Action,195.06,Sat,17:30,120,59,49.17,8.5,R,12674.23,Cloudy,0
+2024-10-19,Haunted Manor,Horror,139.24,Mon,20:00,200,92,46.0,7.1,PG-13,11869.23,Snow,1
+2024-04-08,Cartoon Fun,Animation,105.74,Sun,17:30,200,55,27.5,5.8,R,324.87,Sunny,0
+2024-06-20,Haunted Manor,Horror,252.93,Sat,12:30,250,43,17.2,5.8,G,14575.56,Rainy,0
+2024-12-25,Space Odyssey,Sci-Fi,152.37,Sat,12:30,200,108,54.0,7.8,G,6470.61,Snow,0
+2024-08-01,Cartoon Fun,Animation,150.56,Sun,15:00,200,96,48.0,7.6,G,13301.12,Rainy,0
+2024-02-04,Deep Ocean,Documentary,149.03,Fri,20:00,150,150,100.0,9.1,PG-13,11131.57,Snow,1
+2024-08-14,Space Odyssey,Sci-Fi,157.92,Sat,22:30,250,91,36.4,8.0,PG,6854.62,Snow,0
+2024-04-10,Love in Paris,Romance,144.23,Sun,15:00,80,45,56.25,4.7,18+,2691.53,Cloudy,0
+2024-05-10,Cartoon Fun,Animation,127.05,Tue,12:30,120,77,64.17,8.6,18+,1888.38,Sunny,0
+2024-09-13,Mystery Case,Detective,128.13,Thu,12:30,200,81,40.5,5.5,18+,16630.37,Rainy,0
+2024-01-05,Thunder Strike,Action,148.69,Thu,17:30,120,71,59.17,6.4,18+,18367.95,Sunny,0
+2024-08-05,Space Odyssey,Sci-Fi,128.26,Tue,20:00,80,80,100.0,7.4,18+,12995.76,Cloudy,1
+2024-09-11,Thunder Strike,Action,121.49,Thu,17:30,120,120,100.0,10.0,PG,2068.68,Snow,0
+2024-12-24,Love in Paris,Romance,154.26,Wed,17:30,80,80,100.0,10.0,R,8040.54,Rainy,1
+2024-10-09,Love in Paris,Romance,139.8,Sun,15:00,150,85,56.67,7.9,PG-13,14578.78,Sunny,0
+2024-07-25,Deep Ocean,Documentary,210.16,Thu,17:30,200,76,38.0,6.7,R,15596.42,Rainy,0
+2024-01-15,Love in Paris,Romance,60.0,Thu,10:00,80,80,100.0,7.8,R,2364.37,Rainy,0
+2024-12-11,Haunted Manor,Horror,193.66,Thu,10:00,120,86,71.67,8.3,18+,0.61,Rainy,0
+2024-02-11,Haunted Manor,Horror,199.84,Sat,17:30,200,57,28.5,6.5,18+,14242.74,Sunny,1
+2024-06-27,Deep Ocean,Documentary,67.06,Mon,20:00,150,122,81.33,9.7,PG,7131.92,Rainy,0
+2024-03-03,Haunted Manor,Horror,136.29,Wed,17:30,200,67,33.5,7.3,PG-13,5089.63,Sunny,0
+2024-12-17,Mystery Case,Detective,135.14,Thu,12:30,80,79,98.75,7.7,G,257.95,Snow,0
+2024-08-18,Rock Legends,Musical,93.7,Wed,12:30,150,104,69.33,8.0,R,10805.99,Sunny,0
+2024-08-28,Thunder Strike,Action,118.89,Sat,20:00,120,91,75.83,7.6,G,17023.01,Cloudy,0
+2024-02-21,Thunder Strike,Action,105.58,Wed,15:00,150,97,64.67,8.3,PG-13,19152.63,Rainy,0
+2024-04-05,Mystery Case,Detective,220.09,Wed,10:00,150,52,34.67,6.1,R,11314.9,Cloudy,0
+2024-08-09,Rock Legends,Musical,187.43,Tue,10:00,250,46,18.4,6.2,G,10289.23,Cloudy,0
+2024-08-18,Cartoon Fun,Animation,200.86,Sat,15:00,150,49,32.67,5.3,G,1701.13,Snow,0
+2024-08-24,Deep Ocean,Documentary,178.87,Thu,17:30,150,74,49.33,7.7,PG,10977.46,Snow,0
+2024-05-22,Deep Ocean,Documentary,104.84,Mon,20:00,200,89,44.5,8.2,PG-13,7599.58,Sunny,0
+2024-06-19,Love in Paris,Romance,129.02,Mon,22:30,120,74,61.67,7.7,PG-13,12142.71,Sunny,0
+2024-01-29,Thunder Strike,Action,169.57,Sun,22:30,200,138,69.0,9.5,PG-13,7774.53,Rainy,1
+2024-02-05,Thunder Strike,Action,101.11,Mon,17:30,200,78,39.0,7.0,R,4805.98,Cloudy,0
+2024-01-13,Love in Paris,Romance,178.52,Mon,15:00,80,80,100.0,8.0,PG,1899.31,Snow,0
+2024-06-08,Cartoon Fun,Animation,140.39,Thu,20:00,200,54,27.0,5.4,18+,6298.37,Snow,0
+2024-11-22,Space Odyssey,Sci-Fi,135.01,Mon,10:00,250,69,27.6,6.4,R,1932.9,Rainy,0
+2024-07-05,Thunder Strike,Action,178.44,Sat,10:00,250,71,28.4,8.0,PG-13,3537.94,Snow,0
+2024-08-30,Thunder Strike,Action,167.77,Sat,17:30,80,80,100.0,8.3,R,19746.72,Cloudy,0
+2024-03-26,Space Odyssey,Sci-Fi,135.56,Wed,12:30,120,56,46.67,6.6,G,8882.07,Cloudy,0
+2024-10-10,Love in Paris,Romance,196.37,Sun,15:00,120,79,65.83,6.9,R,10637.44,Rainy,0
+2024-03-06,Space Odyssey,Sci-Fi,106.76,Tue,22:30,200,54,27.0,4.7,R,17472.37,Cloudy,0
+2024-06-18,Thunder Strike,Action,174.64,Fri,15:00,200,59,29.5,6.5,PG-13,19911.38,Sunny,0
+2024-02-14,Love in Paris,Romance,173.72,Mon,17:30,200,102,51.0,8.3,G,11654.29,Cloudy,1
+2024-03-02,Space Odyssey,Sci-Fi,137.62,Fri,15:00,120,71,59.17,7.9,PG-13,16249.48,Sunny,0
+2024-05-13,Cartoon Fun,Animation,163.05,Fri,10:00,150,78,52.0,7.8,G,6538.82,Snow,0
+2024-10-10,Love in Paris,Romance,99.96,Fri,17:30,250,99,39.6,7.1,G,6114.88,Sunny,1
+2024-01-28,Thunder Strike,Action,186.96,Wed,10:00,150,76,50.67,7.0,G,8054.07,Rainy,0
+2024-04-17,Mystery Case,Detective,142.6,Sat,20:00,150,65,43.33,6.0,PG-13,13450.15,Rainy,0
+2024-02-13,Deep Ocean,Documentary,129.09,Mon,20:00,120,87,72.5,8.0,G,13643.83,Rainy,0
+2024-12-05,Thunder Strike,Action,191.96,Thu,12:30,150,121,80.67,7.6,PG,6304.79,Rainy,1
+2024-10-12,Haunted Manor,Horror,121.83,Wed,15:00,80,80,100.0,7.7,PG,2664.2,Rainy,0
+2024-11-26,Deep Ocean,Documentary,93.66,Sun,20:00,200,107,53.5,6.2,18+,12647.93,Cloudy,1
+2024-05-07,Thunder Strike,Action,87.73,Sat,15:00,80,60,75.0,3.8,PG,2566.52,Snow,0
+2024-12-13,Deep Ocean,Documentary,174.24,Sun,10:00,250,73,29.2,8.6,18+,11569.85,Sunny,0
+2024-08-18,Rock Legends,Musical,98.78,Thu,17:30,200,81,40.5,6.3,PG,13868.44,Sunny,1
+2024-07-08,Thunder Strike,Action,220.19,Sun,20:00,150,45,30.0,5.7,PG-13,14012.23,Snow,0
+2024-08-12,Love in Paris,Romance,66.72,Sat,17:30,250,132,52.8,8.0,18+,15069.44,Rainy,0
+2024-10-09,Love in Paris,Romance,217.86,Mon,20:00,200,62,31.0,6.4,R,17457.19,Rainy,0
+2024-04-30,Rock Legends,Musical,158.44,Wed,15:00,150,92,61.33,8.6,R,9999.18,Sunny,0
+2024-04-25,Cartoon Fun,Animation,146.13,Fri,20:00,80,80,100.0,7.9,PG,14604.98,Rainy,1
+2024-08-20,Rock Legends,Musical,128.2,Wed,22:30,200,92,46.0,8.0,R,12383.45,Cloudy,0
+2024-09-15,Rock Legends,Musical,165.97,Wed,20:00,150,40,26.67,5.0,PG,3732.8,Cloudy,0
+2024-12-24,Deep Ocean,Documentary,148.49,Mon,10:00,80,79,98.75,8.8,PG,513.79,Cloudy,0
+2024-07-16,Space Odyssey,Sci-Fi,194.13,Fri,12:30,250,86,34.4,7.4,R,5690.83,Snow,0
+2024-05-16,Love in Paris,Romance,154.57,Fri,10:00,250,67,26.8,6.4,R,8860.67,Snow,0
+2024-11-13,Space Odyssey,Sci-Fi,156.01,Tue,17:30,250,58,23.2,7.2,G,12342.12,Cloudy,0
+2024-06-13,Rock Legends,Musical,135.46,Tue,15:00,250,58,23.2,4.3,18+,16999.19,Snow,0
+2024-08-12,Cartoon Fun,Animation,147.72,Sat,15:00,120,95,79.17,7.6,PG,3924.91,Cloudy,1
+2024-11-02,Love in Paris,Romance,162.31,Thu,20:00,200,73,36.5,5.5,R,2511.0,Rainy,0
+2024-08-21,Thunder Strike,Action,81.59,Tue,15:00,200,77,38.5,5.0,18+,19269.6,Snow,0
+2024-06-20,Thunder Strike,Action,96.07,Sun,12:30,120,60,50.0,4.7,R,2160.89,Cloudy,1
+2024-05-31,Thunder Strike,Action,179.73,Mon,12:30,150,110,73.33,8.7,R,9569.82,Snow,0
+2024-11-10,Deep Ocean,Documentary,156.83,Wed,20:00,150,53,35.33,6.1,G,11711.27,Sunny,0
+2024-06-08,Haunted Manor,Horror,142.64,Sun,20:00,250,89,35.6,9.3,PG,10827.49,Sunny,0
+2024-04-05,Rock Legends,Musical,150.74,Fri,17:30,80,77,96.25,6.2,PG,1720.64,Cloudy,1
+2024-08-20,Haunted Manor,Horror,163.9,Wed,20:00,150,34,22.67,4.4,PG-13,1140.54,Cloudy,0
+2024-06-28,Mystery Case,Detective,128.41,Mon,10:00,80,74,92.5,5.3,G,2109.67,Cloudy,1
+2024-04-22,Deep Ocean,Documentary,118.87,Sun,10:00,200,83,41.5,8.9,18+,11711.75,Sunny,0
+2024-11-13,Thunder Strike,Action,157.83,Wed,10:00,80,75,93.75,6.8,G,10886.9,Snow,0
+2024-02-21,Love in Paris,Romance,110.87,Fri,12:30,200,65,32.5,6.2,18+,4674.82,Sunny,0
+2024-09-24,Deep Ocean,Documentary,166.33,Tue,22:30,120,75,62.5,7.2,PG,12755.48,Cloudy,0
+2024-10-21,Love in Paris,Romance,81.9,Sun,15:00,120,106,88.33,7.8,PG-13,16401.35,Cloudy,0
+2024-04-22,Space Odyssey,Sci-Fi,191.17,Thu,17:30,250,64,25.6,8.7,PG-13,831.58,Cloudy,0
+2024-04-10,Space Odyssey,Sci-Fi,168.9,Sun,20:00,150,81,54.0,9.2,PG,9962.6,Cloudy,0
+2024-04-22,Love in Paris,Romance,160.24,Fri,17:30,250,59,23.6,6.5,R,13786.21,Cloudy,0
+2024-03-21,Thunder Strike,Action,189.31,Sun,12:30,200,37,18.5,5.0,G,5046.24,Cloudy,0
+2024-07-05,Haunted Manor,Horror,216.62,Sun,20:00,250,66,26.4,6.4,PG-13,6155.42,Rainy,0
+2024-04-22,Rock Legends,Musical,190.57,Fri,20:00,80,80,100.0,7.4,R,12272.76,Rainy,0
+2024-01-02,Deep Ocean,Documentary,76.37,Fri,12:30,200,72,36.0,5.6,18+,17958.71,Rainy,0
+2024-05-09,Deep Ocean,Documentary,98.82,Sat,15:00,120,61,50.83,5.6,PG-13,16198.49,Sunny,0
+2024-08-07,Thunder Strike,Action,125.01,Sat,20:00,150,82,54.67,7.5,18+,11662.6,Snow,0
+2024-02-23,Rock Legends,Musical,151.04,Fri,15:00,200,72,36.0,6.9,R,14604.43,Cloudy,0
+2024-12-08,Space Odyssey,Sci-Fi,170.71,Mon,12:30,200,66,33.0,7.0,18+,7296.45,Rainy,0
+2024-08-11,Haunted Manor,Horror,120.97,Fri,17:30,80,80,100.0,5.9,R,12819.31,Sunny,1
+2024-08-12,Rock Legends,Musical,157.47,Sat,20:00,150,86,57.33,6.7,18+,9323.63,Snow,0
+2024-05-05,Space Odyssey,Sci-Fi,119.78,Sun,22:30,120,59,49.17,5.6,G,3798.72,Cloudy,0
+2024-05-09,Rock Legends,Musical,125.54,Sat,15:00,200,92,46.0,8.3,PG-13,14034.77,Cloudy,0
+2024-02-22,Mystery Case,Detective,93.73,Wed,20:00,200,141,70.5,8.6,PG-13,11129.29,Snow,0
+2024-06-20,Deep Ocean,Documentary,113.07,Mon,15:00,80,58,72.5,4.2,R,7172.43,Snow,0
+2024-08-05,Mystery Case,Detective,95.93,Tue,20:00,250,69,27.6,5.6,18+,18226.78,Snow,0
+2024-06-08,Rock Legends,Musical,110.97,Wed,20:00,120,51,42.5,4.8,PG,418.68,Sunny,0
+2024-07-16,Deep Ocean,Documentary,192.15,Sat,20:00,150,70,46.67,6.0,PG-13,6315.46,Rainy,0
+2024-09-03,Haunted Manor,Horror,112.02,Sun,17:30,200,81,40.5,6.9,18+,1137.63,Cloudy,0
+2024-11-19,Thunder Strike,Action,255.3,Wed,22:30,200,39,19.5,4.8,18+,15330.55,Rainy,0
+2024-07-21,Mystery Case,Detective,169.73,Wed,20:00,120,72,60.0,5.6,G,14042.15,Snow,0
+2024-07-02,Thunder Strike,Action,157.39,Wed,15:00,250,62,24.8,5.5,PG,6627.04,Cloudy,0
+2024-05-02,Space Odyssey,Sci-Fi,115.67,Mon,17:30,200,123,61.5,7.3,PG-13,13513.26,Cloudy,1
+2024-09-11,Space Odyssey,Sci-Fi,178.01,Tue,10:00,120,64,53.33,7.1,G,7918.74,Rainy,0
+2024-10-20,Cartoon Fun,Animation,126.97,Sun,15:00,80,77,96.25,5.9,PG,15125.08,Rainy,0
+2024-10-06,Space Odyssey,Sci-Fi,154.88,Tue,15:00,250,101,40.4,7.3,PG-13,9083.67,Cloudy,1
+2024-11-20,Space Odyssey,Sci-Fi,252.4,Fri,22:30,150,44,29.33,6.2,G,8245.59,Sunny,0
+2024-04-07,Deep Ocean,Documentary,146.16,Sat,10:00,200,83,41.5,6.6,PG,18694.6,Snow,0
+2024-07-16,Haunted Manor,Horror,195.97,Thu,17:30,120,83,69.17,9.5,PG-13,5017.58,Rainy,0
+2024-08-27,Space Odyssey,Sci-Fi,121.87,Mon,20:00,80,80,100.0,9.0,PG,2408.95,Cloudy,1
+2024-05-23,Love in Paris,Romance,148.6,Tue,15:00,150,66,44.0,5.1,18+,11690.86,Rainy,0
+2024-04-06,Haunted Manor,Horror,220.83,Sat,22:30,120,52,43.33,8.2,R,19386.44,Cloudy,0
+2024-07-19,Love in Paris,Romance,124.92,Sat,22:30,120,87,72.5,8.2,R,7556.78,Sunny,0
+2024-05-03,Love in Paris,Romance,222.5,Mon,22:30,150,54,36.0,5.3,18+,1240.74,Rainy,1
+2024-07-05,Thunder Strike,Action,178.31,Mon,10:00,80,69,86.25,8.2,PG,6786.11,Cloudy,0
+2024-11-21,Rock Legends,Musical,127.5,Sat,20:00,80,80,100.0,9.3,18+,10118.63,Rainy,0
+2024-12-14,Love in Paris,Romance,175.3,Fri,17:30,250,60,24.0,5.3,R,3238.46,Cloudy,1
+2024-09-15,Thunder Strike,Action,188.9,Tue,15:00,200,59,29.5,5.6,R,13162.04,Snow,0
+2024-05-27,Space Odyssey,Sci-Fi,174.87,Thu,22:30,150,81,54.0,8.5,PG,19954.99,Cloudy,0
+2024-09-08,Love in Paris,Romance,87.19,Thu,20:00,150,95,63.33,7.4,R,9034.79,Cloudy,0
+2024-12-11,Rock Legends,Musical,120.91,Thu,20:00,150,97,64.67,7.8,18+,7094.57,Cloudy,0
+2024-05-26,Cartoon Fun,Animation,140.1,Wed,12:30,80,80,100.0,7.5,PG,8014.08,Cloudy,1
+2024-05-27,Mystery Case,Detective,147.02,Tue,22:30,200,77,38.5,7.6,18+,2302.92,Snow,0
+2024-12-17,Thunder Strike,Action,174.83,Wed,10:00,250,52,20.8,5.0,PG,17665.47,Sunny,0
+2024-07-17,Cartoon Fun,Animation,157.11,Wed,20:00,120,86,71.67,8.6,R,8296.51,Snow,0
+2024-11-03,Thunder Strike,Action,96.59,Sat,17:30,120,120,100.0,8.8,PG-13,7745.49,Sunny,0
+2024-05-07,Mystery Case,Detective,165.21,Wed,12:30,150,93,62.0,6.7,PG,13193.81,Sunny,1
+2024-02-08,Rock Legends,Musical,174.42,Sun,20:00,200,76,38.0,6.9,PG,8840.67,Snow,0
+2024-12-03,Haunted Manor,Horror,172.39,Fri,22:30,80,62,77.5,4.7,PG-13,12964.67,Rainy,0
+2024-12-25,Mystery Case,Detective,193.23,Fri,22:30,200,55,27.5,7.8,R,1228.93,Sunny,0
+2024-05-08,Deep Ocean,Documentary,183.36,Mon,20:00,200,100,50.0,7.9,18+,16274.47,Snow,1
+2024-09-23,Cartoon Fun,Animation,168.37,Mon,17:30,80,68,85.0,6.9,G,18810.08,Cloudy,0
+2024-05-30,Love in Paris,Romance,147.19,Tue,12:30,150,98,65.33,8.7,PG-13,12975.31,Snow,0
+2024-10-24,Space Odyssey,Sci-Fi,83.56,Tue,22:30,200,92,46.0,6.5,G,19091.32,Sunny,0
+2024-04-08,Deep Ocean,Documentary,167.18,Sun,12:30,120,73,60.83,7.8,R,3028.65,Rainy,0
+2024-09-19,Love in Paris,Romance,158.31,Fri,10:00,80,65,81.25,5.5,PG,9548.32,Rainy,0
+2024-09-08,Love in Paris,Romance,160.86,Mon,20:00,250,83,33.2,7.0,PG,12036.13,Rainy,0
+2024-05-23,Thunder Strike,Action,98.93,Sat,22:30,150,83,55.33,6.7,R,11634.73,Cloudy,0
+2024-12-11,Mystery Case,Detective,106.76,Mon,10:00,80,80,100.0,7.3,18+,8029.24,Snow,0
+2024-04-21,Haunted Manor,Horror,192.13,Wed,12:30,250,62,24.8,6.4,18+,6761.69,Snow,0
+2024-02-29,Cartoon Fun,Animation,148.42,Thu,10:00,250,121,48.4,6.8,R,2536.48,Rainy,1
+2024-01-02,Love in Paris,Romance,177.26,Sat,17:30,200,65,32.5,8.2,R,7834.85,Cloudy,0
+2024-10-30,Thunder Strike,Action,151.13,Thu,15:00,200,111,55.5,6.3,R,3253.22,Rainy,1
+2024-09-10,Cartoon Fun,Animation,151.19,Thu,17:30,200,46,23.0,4.6,R,14687.31,Sunny,0
+2024-05-19,Mystery Case,Detective,187.53,Fri,12:30,80,80,100.0,9.6,R,4176.62,Snow,0
+2024-02-06,Haunted Manor,Horror,129.36,Thu,17:30,80,80,100.0,9.1,R,1171.31,Cloudy,1
+2024-06-08,Deep Ocean,Documentary,153.84,Thu,22:30,150,52,34.67,5.1,PG,11047.32,Rainy,0
+2024-01-09,Mystery Case,Detective,131.51,Wed,12:30,200,87,43.5,8.0,G,11904.59,Cloudy,0
+2024-08-20,Space Odyssey,Sci-Fi,132.62,Tue,17:30,250,98,39.2,6.2,18+,17438.26,Sunny,1
+2024-04-08,Mystery Case,Detective,137.63,Sun,20:00,120,74,61.67,7.4,G,11539.63,Sunny,0
+2024-05-26,Love in Paris,Romance,158.89,Fri,20:00,150,102,68.0,7.4,PG,6909.62,Snow,0
+2024-10-30,Haunted Manor,Horror,130.85,Mon,17:30,80,69,86.25,6.6,PG-13,16060.24,Cloudy,0
+2024-07-26,Mystery Case,Detective,200.23,Wed,22:30,150,49,32.67,5.8,G,10805.58,Rainy,0
+2024-05-10,Love in Paris,Romance,114.22,Thu,22:30,150,76,50.67,6.0,PG-13,1585.61,Rainy,0
+2024-05-31,Love in Paris,Romance,142.53,Mon,10:00,150,81,54.0,5.6,PG,11317.01,Rainy,0
+2024-02-23,Haunted Manor,Horror,132.41,Wed,22:30,150,67,44.67,5.8,18+,18160.37,Snow,0
+2024-04-29,Mystery Case,Detective,207.88,Sat,12:30,120,63,52.5,6.9,PG-13,7926.25,Sunny,0
+2024-06-09,Mystery Case,Detective,157.86,Sat,20:00,200,79,39.5,5.9,PG,5926.52,Rainy,0
+2024-04-25,Thunder Strike,Action,191.27,Fri,12:30,250,78,31.2,8.0,R,2869.39,Snow,0
+2024-03-15,Cartoon Fun,Animation,90.58,Thu,20:00,150,110,73.33,9.2,18+,3028.91,Snow,0
+2024-04-22,Thunder Strike,Action,160.68,Fri,15:00,150,77,51.33,6.1,R,8655.43,Snow,0
+2024-04-13,Mystery Case,Detective,185.59,Sat,22:30,150,71,47.33,7.4,18+,11913.6,Snow,0
+2024-12-05,Deep Ocean,Documentary,153.29,Wed,17:30,200,102,51.0,7.7,18+,1612.31,Snow,0
+2024-09-10,Mystery Case,Detective,192.62,Mon,20:00,80,77,96.25,7.7,G,18791.37,Snow,0
+2024-08-14,Space Odyssey,Sci-Fi,129.31,Tue,17:30,80,75,93.75,7.1,18+,15102.67,Sunny,0
+2024-04-21,Love in Paris,Romance,206.37,Thu,15:00,120,95,79.17,8.1,G,11732.48,Sunny,1
+2024-04-08,Rock Legends,Musical,241.96,Fri,12:30,80,61,76.25,7.7,PG-13,16568.77,Rainy,0
+2024-06-01,Mystery Case,Detective,135.49,Mon,17:30,150,52,34.67,5.1,18+,1603.74,Cloudy,0
+2024-12-14,Space Odyssey,Sci-Fi,132.18,Mon,20:00,150,83,55.33,8.3,PG-13,9536.78,Sunny,0
+2024-12-03,Space Odyssey,Sci-Fi,208.14,Tue,15:00,150,63,42.0,8.3,18+,12601.86,Cloudy,0
+2024-07-12,Cartoon Fun,Animation,213.18,Wed,20:00,120,72,60.0,5.9,G,16573.06,Rainy,1
+2024-11-05,Haunted Manor,Horror,129.09,Tue,15:00,150,110,73.33,7.1,R,15669.39,Sunny,1
+2024-06-11,Mystery Case,Detective,133.19,Sun,22:30,80,80,100.0,8.0,18+,5541.38,Sunny,0
+2024-07-26,Haunted Manor,Horror,138.73,Tue,22:30,200,84,42.0,6.7,PG,18817.6,Rainy,0
+2024-06-17,Deep Ocean,Documentary,96.22,Sun,22:30,200,169,84.5,8.6,R,2486.92,Rainy,1
+2024-06-09,Rock Legends,Musical,113.25,Wed,22:30,250,132,52.8,10.0,G,17502.67,Cloudy,1
+2024-03-08,Space Odyssey,Sci-Fi,109.83,Wed,22:30,80,60,75.0,5.8,PG,19418.8,Cloudy,0
+2024-10-15,Love in Paris,Romance,119.29,Wed,15:00,150,76,50.67,4.9,PG-13,3543.07,Rainy,0
+2024-10-03,Love in Paris,Romance,148.61,Mon,20:00,200,81,40.5,7.5,G,14441.32,Sunny,0
+2024-10-30,Haunted Manor,Horror,159.37,Mon,17:30,80,80,100.0,8.1,R,805.71,Snow,1
+2024-05-14,Space Odyssey,Sci-Fi,212.02,Thu,12:30,200,55,27.5,6.7,PG-13,8108.46,Cloudy,0
+2024-07-13,Cartoon Fun,Animation,110.07,Sat,12:30,150,101,67.33,9.2,PG-13,10325.67,Rainy,0
+2024-05-07,Haunted Manor,Horror,189.37,Thu,15:00,200,45,22.5,5.0,G,11612.9,Sunny,0
+2024-02-02,Rock Legends,Musical,141.44,Tue,20:00,250,83,33.2,8.0,R,18718.74,Sunny,0
+2024-06-24,Haunted Manor,Horror,148.02,Tue,15:00,250,62,24.8,6.1,G,13445.01,Cloudy,0
+2024-01-22,Space Odyssey,Sci-Fi,176.99,Thu,12:30,200,106,53.0,9.6,PG,9625.56,Cloudy,1
+2024-08-25,Mystery Case,Detective,105.09,Fri,15:00,80,80,100.0,10.0,PG,16193.5,Snow,0
+2024-06-06,Cartoon Fun,Animation,165.3,Sat,15:00,80,48,60.0,5.9,18+,19010.66,Cloudy,0
+2024-02-07,Space Odyssey,Sci-Fi,156.66,Tue,22:30,80,80,100.0,6.2,PG-13,441.32,Snow,0
+2024-08-17,Cartoon Fun,Animation,169.7,Fri,12:30,200,89,44.5,8.3,18+,19650.43,Rainy,0
+2024-12-30,Thunder Strike,Action,161.57,Fri,22:30,80,60,75.0,6.4,R,1722.64,Cloudy,0
+2024-02-20,Thunder Strike,Action,248.21,Sun,22:30,150,45,30.0,6.9,PG,16287.74,Snow,0
+2024-09-20,Love in Paris,Romance,124.49,Sat,17:30,250,62,24.8,7.0,18+,5606.7,Cloudy,0
+2024-10-09,Cartoon Fun,Animation,128.76,Sun,15:00,150,57,38.0,4.1,PG,2643.59,Rainy,0
+2024-01-27,Rock Legends,Musical,125.07,Wed,17:30,80,80,100.0,7.0,PG,8797.11,Rainy,0
+2024-08-13,Haunted Manor,Horror,127.78,Mon,15:00,150,77,51.33,6.0,PG,12879.13,Snow,0
+2024-10-03,Thunder Strike,Action,124.5,Thu,20:00,80,79,98.75,6.3,G,7619.04,Sunny,1
+2024-10-12,Haunted Manor,Horror,197.56,Sun,22:30,200,132,66.0,9.2,18+,1091.31,Rainy,1
+2024-04-06,Haunted Manor,Horror,206.82,Sat,15:00,150,43,28.67,5.1,PG-13,11989.22,Rainy,0
+2024-10-10,Rock Legends,Musical,127.17,Mon,15:00,200,92,46.0,8.2,18+,18048.07,Rainy,0
+2024-11-12,Space Odyssey,Sci-Fi,116.71,Thu,10:00,200,112,56.0,6.6,PG-13,7664.31,Rainy,1
+2024-10-30,Haunted Manor,Horror,168.86,Mon,20:00,120,56,46.67,6.6,18+,4326.66,Sunny,0
+2024-05-26,Cartoon Fun,Animation,127.91,Thu,22:30,80,80,100.0,8.2,18+,8851.55,Rainy,0
+2024-01-04,Rock Legends,Musical,175.32,Mon,20:00,250,94,37.6,7.5,PG,967.25,Sunny,1
+2024-02-04,Thunder Strike,Action,158.12,Sun,17:30,80,80,100.0,7.9,PG-13,16409.75,Cloudy,0
+2024-07-10,Mystery Case,Detective,89.37,Wed,17:30,250,114,45.6,8.5,PG-13,16526.82,Sunny,0
+2024-02-18,Haunted Manor,Horror,211.9,Fri,15:00,80,77,96.25,6.5,PG-13,11760.01,Snow,1
+2024-01-17,Love in Paris,Romance,221.84,Thu,12:30,200,38,19.0,6.1,18+,7062.06,Cloudy,0
+2024-06-20,Rock Legends,Musical,125.49,Fri,15:00,150,52,34.67,5.4,PG-13,15995.67,Sunny,0
+2024-08-07,Space Odyssey,Sci-Fi,134.49,Thu,10:00,150,72,48.0,5.8,18+,11093.74,Sunny,0
+2024-06-06,Deep Ocean,Documentary,161.43,Sat,15:00,120,99,82.5,10.0,G,16518.65,Sunny,0
+2024-02-15,Thunder Strike,Action,163.38,Sat,22:30,250,91,36.4,8.9,PG,12629.18,Sunny,0
+2024-01-06,Thunder Strike,Action,176.34,Thu,10:00,250,36,14.4,5.0,R,15688.11,Sunny,0
+2024-04-08,Deep Ocean,Documentary,230.41,Wed,15:00,250,48,19.2,5.0,G,11971.26,Sunny,1
+2024-08-20,Cartoon Fun,Animation,142.92,Mon,17:30,200,77,38.5,7.7,PG-13,8282.82,Snow,0
+2024-02-06,Mystery Case,Detective,118.07,Thu,22:30,250,106,42.4,7.8,PG,19158.92,Snow,0
+2024-10-06,Thunder Strike,Action,94.83,Mon,15:00,150,129,86.0,7.8,PG,10822.28,Snow,0
+2024-12-14,Thunder Strike,Action,120.76,Wed,22:30,200,86,43.0,6.6,PG,12101.79,Sunny,0
+2024-10-28,Space Odyssey,Sci-Fi,148.67,Tue,17:30,80,69,86.25,6.8,PG,4409.75,Cloudy,0
+2024-06-29,Thunder Strike,Action,221.78,Sun,12:30,250,87,34.8,7.5,PG-13,12513.02,Snow,1
+2024-04-04,Rock Legends,Musical,129.3,Fri,12:30,250,140,56.0,7.1,PG,11432.15,Rainy,1
+2024-04-08,Cartoon Fun,Animation,158.95,Thu,20:00,80,45,56.25,3.7,R,3696.77,Rainy,0
+2024-07-06,Mystery Case,Detective,149.34,Sun,15:00,250,55,22.0,6.7,R,1191.74,Sunny,0
+2024-04-25,Love in Paris,Romance,197.54,Sat,20:00,80,47,58.75,5.7,PG,12087.19,Cloudy,0
+2024-07-09,Mystery Case,Detective,251.08,Wed,22:30,200,51,25.5,7.3,18+,15273.85,Snow,0
+2024-09-09,Cartoon Fun,Animation,128.77,Mon,15:00,150,105,70.0,10.0,PG-13,10468.03,Sunny,0
+2024-06-09,Rock Legends,Musical,130.42,Thu,12:30,80,79,98.75,7.6,R,4535.45,Cloudy,0
+2024-09-12,Cartoon Fun,Animation,191.77,Sun,10:00,120,90,75.0,6.5,R,13330.44,Rainy,1
+2024-11-18,Space Odyssey,Sci-Fi,177.28,Mon,20:00,80,80,100.0,8.4,R,1602.11,Snow,0
+2024-05-07,Love in Paris,Romance,223.87,Tue,22:30,250,50,20.0,7.7,G,8836.67,Sunny,0
+2024-01-18,Mystery Case,Detective,173.36,Thu,20:00,200,70,35.0,7.6,G,3267.34,Sunny,0
+2024-10-07,Haunted Manor,Horror,135.63,Fri,12:30,200,93,46.5,7.9,R,3689.18,Cloudy,0
+2024-08-10,Mystery Case,Detective,173.63,Thu,12:30,80,80,100.0,10.0,18+,4045.88,Sunny,0
+2024-02-23,Space Odyssey,Sci-Fi,194.35,Fri,10:00,150,42,28.0,5.3,PG-13,7734.14,Sunny,0
+2024-02-27,Love in Paris,Romance,182.82,Mon,22:30,120,96,80.0,7.7,PG-13,1023.0,Snow,0
+2024-11-18,Rock Legends,Musical,170.29,Thu,20:00,200,73,36.5,5.6,R,7955.87,Rainy,0
+2024-12-25,Cartoon Fun,Animation,192.67,Sun,12:30,250,71,28.4,7.8,R,10234.15,Rainy,0
+2024-06-22,Cartoon Fun,Animation,196.77,Wed,22:30,250,38,15.2,5.6,PG-13,9665.89,Cloudy,0
+2024-10-06,Rock Legends,Musical,205.29,Sat,12:30,150,68,45.33,6.4,18+,7655.68,Rainy,0
+2024-04-23,Love in Paris,Romance,175.95,Wed,10:00,200,67,33.5,6.6,G,16782.93,Cloudy,0
+2024-10-14,Rock Legends,Musical,143.32,Tue,10:00,80,80,100.0,8.5,G,2906.53,Snow,0
+2024-12-07,Thunder Strike,Action,155.87,Wed,17:30,250,94,37.6,8.4,R,10113.93,Cloudy,0
+2024-05-30,Mystery Case,Detective,198.26,Sun,15:00,150,53,35.33,5.1,PG-13,1240.83,Rainy,0
+2024-05-06,Space Odyssey,Sci-Fi,117.32,Tue,22:30,200,79,39.5,7.1,G,1423.11,Sunny,0
+2024-06-03,Rock Legends,Musical,164.75,Mon,17:30,200,54,27.0,5.9,18+,11477.32,Snow,0
+2024-09-29,Space Odyssey,Sci-Fi,134.27,Fri,10:00,200,58,29.0,5.1,R,11320.37,Rainy,0
+2024-04-13,Thunder Strike,Action,151.15,Sat,22:30,200,78,39.0,6.7,PG,17560.67,Snow,0
+2024-10-25,Cartoon Fun,Animation,201.14,Mon,12:30,200,57,28.5,6.5,R,11157.47,Cloudy,0
+2024-09-02,Rock Legends,Musical,157.64,Fri,10:00,250,119,47.6,10.0,PG,19195.82,Rainy,0
+2024-06-24,Love in Paris,Romance,151.86,Fri,20:00,150,108,72.0,7.6,R,973.9,Sunny,1
+2024-02-08,Cartoon Fun,Animation,95.61,Tue,12:30,200,53,26.5,4.9,PG-13,1960.15,Sunny,0
+2024-06-18,Cartoon Fun,Animation,179.85,Sun,17:30,120,73,60.83,6.2,PG-13,881.32,Sunny,1
+2024-09-03,Love in Paris,Romance,175.82,Wed,22:30,120,65,54.17,8.5,PG-13,3705.54,Sunny,0
+2024-01-26,Mystery Case,Detective,236.53,Wed,17:30,150,82,54.67,10.0,PG-13,10825.4,Snow,0
+2024-12-20,Mystery Case,Detective,137.69,Sat,17:30,80,80,100.0,4.6,18+,12911.44,Rainy,1
+2024-11-01,Rock Legends,Musical,158.77,Sun,22:30,80,43,53.75,4.2,18+,911.7,Sunny,0
+2024-01-13,Cartoon Fun,Animation,159.98,Sat,12:30,80,80,100.0,9.8,PG,18919.42,Sunny,0
+2024-11-11,Rock Legends,Musical,213.1,Sun,15:00,120,54,45.0,7.6,18+,16843.31,Sunny,0
+2024-11-08,Mystery Case,Detective,146.19,Tue,15:00,80,57,71.25,5.7,R,5932.25,Cloudy,0
+2024-02-05,Haunted Manor,Horror,161.16,Tue,15:00,250,83,33.2,7.8,PG-13,1543.75,Rainy,0
+2024-06-21,Thunder Strike,Action,174.32,Mon,22:30,200,32,16.0,3.0,G,3397.74,Snow,0
+2024-01-20,Rock Legends,Musical,157.46,Tue,10:00,120,101,84.17,7.0,G,2538.89,Cloudy,1
+2024-11-16,Rock Legends,Musical,132.14,Wed,10:00,150,85,56.67,7.5,G,2465.68,Cloudy,0
+2024-09-20,Haunted Manor,Horror,157.76,Tue,22:30,150,146,97.33,8.4,R,10371.23,Snow,1
+2024-05-21,Mystery Case,Detective,192.95,Tue,20:00,200,53,26.5,5.5,G,4916.95,Sunny,1
+2024-05-22,Rock Legends,Musical,108.94,Fri,12:30,120,93,77.5,7.1,G,7162.79,Sunny,0
+2024-04-01,Space Odyssey,Sci-Fi,155.32,Tue,20:00,80,54,67.5,5.6,PG,19790.11,Rainy,0
+2024-12-19,Mystery Case,Detective,122.0,Sun,22:30,80,80,100.0,7.4,R,13686.28,Sunny,1
+2024-11-17,Mystery Case,Detective,197.8,Sun,22:30,250,57,22.8,5.7,R,18979.61,Cloudy,1
+2024-10-14,Thunder Strike,Action,89.07,Sat,10:00,250,71,28.4,6.4,G,2851.13,Cloudy,0
+2024-08-02,Rock Legends,Musical,127.64,Mon,12:30,80,59,73.75,5.5,R,7642.79,Cloudy,0
+2024-12-07,Cartoon Fun,Animation,165.09,Tue,17:30,150,106,70.67,8.0,PG,11094.64,Snow,0
+2024-02-20,Deep Ocean,Documentary,212.62,Sun,12:30,150,53,35.33,8.3,PG,1535.16,Sunny,0
+2024-06-01,Deep Ocean,Documentary,147.37,Sat,10:00,250,63,25.2,6.6,PG-13,83.75,Sunny,0
+2024-07-04,Deep Ocean,Documentary,127.79,Thu,17:30,200,86,43.0,7.1,PG,13408.69,Sunny,0
+2024-03-03,Thunder Strike,Action,225.25,Thu,17:30,80,34,42.5,4.8,PG-13,12836.39,Sunny,0
+2024-07-08,Deep Ocean,Documentary,92.08,Sun,12:30,250,82,32.8,6.6,G,8215.78,Rainy,0
+2024-05-04,Haunted Manor,Horror,62.05,Fri,22:30,250,104,41.6,6.9,PG-13,9792.88,Rainy,0
+2024-05-29,Love in Paris,Romance,167.6,Sun,15:00,80,80,100.0,10.0,PG-13,8308.86,Cloudy,0
+2024-11-09,Mystery Case,Detective,129.92,Fri,10:00,80,66,82.5,5.3,G,480.1,Cloudy,0
+2024-02-27,Cartoon Fun,Animation,109.15,Thu,10:00,150,138,92.0,9.2,PG-13,6707.43,Snow,0
+2024-12-07,Love in Paris,Romance,178.33,Sat,15:00,200,77,38.5,8.5,PG,3541.65,Cloudy,0
+2024-10-31,Thunder Strike,Action,159.75,Fri,20:00,200,85,42.5,7.4,G,1968.48,Sunny,0
+2024-06-28,Mystery Case,Detective,127.44,Sat,20:00,80,80,100.0,9.6,R,19134.41,Cloudy,0
+2024-06-18,Thunder Strike,Action,98.79,Sat,10:00,120,94,78.33,7.6,PG-13,11987.19,Cloudy,1
+2024-11-21,Thunder Strike,Action,184.9,Fri,15:00,250,72,28.8,7.6,PG,14573.13,Rainy,0
+2024-09-27,Haunted Manor,Horror,176.01,Wed,15:00,250,61,24.4,6.9,R,6307.27,Sunny,0
+2024-02-23,Space Odyssey,Sci-Fi,146.03,Sun,17:30,80,80,100.0,8.8,G,7862.94,Snow,0
+2024-04-10,Space Odyssey,Sci-Fi,223.87,Sat,22:30,120,119,99.17,8.6,G,4738.48,Snow,1
+2024-09-20,Thunder Strike,Action,107.2,Wed,20:00,150,91,60.67,6.1,G,1939.31,Snow,0
+2024-02-22,Deep Ocean,Documentary,88.98,Tue,20:00,80,54,67.5,5.0,PG,3580.63,Cloudy,0
+2024-02-29,Love in Paris,Romance,122.32,Thu,17:30,80,80,100.0,6.7,R,15950.28,Snow,0
+2024-04-17,Deep Ocean,Documentary,148.18,Mon,12:30,250,76,30.4,5.8,G,13550.92,Snow,0
+2024-01-05,Rock Legends,Musical,159.73,Thu,20:00,80,80,100.0,6.9,PG,10938.58,Snow,0
+2024-04-12,Thunder Strike,Action,140.35,Thu,17:30,80,80,100.0,8.9,18+,9501.8,Rainy,0
+2024-07-14,Rock Legends,Musical,164.08,Sat,15:00,80,60,75.0,6.3,PG,18448.69,Sunny,0
+2024-09-18,Deep Ocean,Documentary,99.94,Wed,12:30,250,107,42.8,6.9,18+,1454.7,Rainy,0
+2024-12-30,Rock Legends,Musical,207.75,Sun,10:00,150,58,38.67,7.1,R,5612.02,Sunny,0
+2024-12-15,Thunder Strike,Action,146.71,Wed,15:00,150,102,68.0,8.3,G,6998.76,Rainy,0
+2024-02-16,Haunted Manor,Horror,194.69,Fri,12:30,80,26,32.5,3.6,G,15648.52,Sunny,0
+2024-12-20,Space Odyssey,Sci-Fi,163.71,Mon,22:30,250,59,23.6,6.1,PG-13,19850.29,Snow,0
+2024-11-06,Love in Paris,Romance,168.27,Wed,17:30,150,83,55.33,7.3,G,4813.41,Snow,0
+2024-11-03,Rock Legends,Musical,172.79,Fri,22:30,150,88,58.67,8.8,R,17486.15,Snow,0
+2024-05-23,Thunder Strike,Action,167.91,Mon,15:00,150,57,38.0,6.3,PG,16612.46,Rainy,0
+2024-09-25,Haunted Manor,Horror,175.71,Wed,22:30,250,50,20.0,4.2,R,4493.15,Snow,0
+2024-05-03,Deep Ocean,Documentary,203.17,Thu,12:30,250,68,27.2,7.9,G,7986.65,Cloudy,1
+2024-04-15,Space Odyssey,Sci-Fi,157.86,Thu,10:00,80,61,76.25,6.0,PG,8193.46,Sunny,0
+2024-06-06,Thunder Strike,Action,178.36,Mon,22:30,200,57,28.5,5.2,R,19564.41,Rainy,0
+2024-05-26,Love in Paris,Romance,146.41,Mon,15:00,150,87,58.0,6.1,G,3617.84,Snow,0
+2024-05-24,Deep Ocean,Documentary,207.6,Wed,15:00,200,64,32.0,6.7,G,15983.16,Snow,0
+2024-04-29,Haunted Manor,Horror,122.94,Sun,20:00,250,54,21.6,6.1,G,6683.85,Sunny,0
+2024-11-14,Deep Ocean,Documentary,222.04,Wed,22:30,250,34,13.6,3.7,PG-13,14617.41,Snow,0
+2024-10-01,Cartoon Fun,Animation,148.39,Mon,12:30,250,114,45.6,8.3,PG-13,8400.22,Snow,0
+2024-04-01,Deep Ocean,Documentary,92.77,Sat,12:30,200,127,63.5,8.9,PG-13,11567.2,Sunny,0
+2024-02-27,Rock Legends,Musical,155.12,Sun,20:00,250,76,30.4,8.0,PG,16652.24,Sunny,0
+2024-12-11,Deep Ocean,Documentary,122.76,Sun,22:30,80,53,66.25,5.3,R,16083.31,Cloudy,0
+2024-08-16,Haunted Manor,Horror,183.63,Mon,17:30,250,69,27.6,6.7,PG,17328.46,Cloudy,0
+2024-04-26,Deep Ocean,Documentary,123.9,Fri,17:30,120,66,55.0,7.0,PG,1192.35,Sunny,0
+2024-11-13,Deep Ocean,Documentary,132.15,Fri,20:00,200,105,52.5,7.9,G,13841.01,Rainy,0
+2024-10-05,Mystery Case,Detective,74.42,Fri,15:00,120,96,80.0,8.0,18+,2799.75,Cloudy,0
+2024-05-06,Thunder Strike,Action,131.91,Thu,10:00,250,66,26.4,5.9,18+,8316.37,Sunny,1
+2024-05-08,Mystery Case,Detective,60.0,Thu,17:30,80,80,100.0,7.1,G,10971.77,Snow,1
+2024-02-27,Deep Ocean,Documentary,86.64,Fri,22:30,150,101,67.33,7.7,18+,8054.79,Rainy,0
+2024-05-01,Thunder Strike,Action,180.42,Fri,10:00,250,106,42.4,9.2,PG,10392.23,Snow,0
+2024-01-01,Mystery Case,Detective,181.43,Sun,12:30,80,80,100.0,8.1,R,19930.53,Cloudy,0
+2024-08-26,Deep Ocean,Documentary,167.02,Sat,12:30,200,84,42.0,8.2,PG-13,2704.35,Snow,0
+2024-10-16,Love in Paris,Romance,111.32,Mon,17:30,120,108,90.0,7.1,PG,13509.12,Rainy,0
+2024-04-05,Mystery Case,Detective,148.09,Thu,15:00,120,75,62.5,9.1,PG,7920.02,Sunny,0
+2024-05-05,Thunder Strike,Action,149.86,Sun,12:30,120,77,64.17,7.6,R,2660.2,Sunny,0
+2024-04-27,Mystery Case,Detective,103.67,Fri,10:00,200,85,42.5,5.7,18+,3174.74,Rainy,1
+2024-02-17,Cartoon Fun,Animation,210.14,Sat,15:00,80,80,100.0,9.1,R,18985.46,Snow,0
+2024-03-29,Cartoon Fun,Animation,185.09,Tue,17:30,200,94,47.0,8.0,PG,17592.03,Snow,0
+2024-08-24,Love in Paris,Romance,141.16,Wed,12:30,120,83,69.17,6.3,G,18140.84,Rainy,0
+2024-09-28,Haunted Manor,Horror,151.08,Fri,17:30,250,70,28.0,6.3,G,19830.66,Sunny,0
+2024-07-07,Haunted Manor,Horror,158.34,Thu,15:00,150,91,60.67,7.4,PG,4166.31,Snow,0
+2024-07-10,Thunder Strike,Action,68.33,Fri,15:00,200,116,58.0,7.7,G,7108.79,Cloudy,0
+2024-03-09,Rock Legends,Musical,140.11,Tue,15:00,200,98,49.0,7.3,18+,13384.38,Rainy,0
+2024-10-04,Haunted Manor,Horror,122.72,Mon,20:00,80,80,100.0,7.5,R,9676.05,Cloudy,0
+2024-12-14,Thunder Strike,Action,109.94,Thu,22:30,80,80,100.0,9.5,PG-13,8367.79,Cloudy,0
+2024-09-03,Love in Paris,Romance,138.76,Mon,20:00,200,75,37.5,8.6,R,7156.22,Sunny,0
+2024-03-16,Rock Legends,Musical,221.91,Sun,10:00,120,67,55.83,7.3,PG-13,11875.61,Rainy,0
+2024-06-02,Rock Legends,Musical,175.63,Sun,15:00,150,78,52.0,8.4,PG,11511.87,Snow,0
+2024-05-23,Cartoon Fun,Animation,127.15,Wed,22:30,80,73,91.25,5.5,PG,3229.16,Snow,0
+2024-03-26,Deep Ocean,Documentary,172.9,Sat,15:00,120,83,69.17,7.6,PG-13,9434.8,Rainy,0
+2024-07-03,Rock Legends,Musical,205.97,Mon,22:30,250,82,32.8,9.7,G,11069.44,Sunny,0
+2024-10-11,Space Odyssey,Sci-Fi,186.99,Fri,12:30,80,56,70.0,6.7,PG,11405.74,Snow,0
+2024-08-07,Thunder Strike,Action,152.39,Sat,10:00,120,59,49.17,5.7,18+,4202.14,Snow,0
+2024-03-09,Rock Legends,Musical,124.12,Tue,22:30,120,101,84.17,6.0,18+,14845.43,Snow,1
+2024-02-16,Rock Legends,Musical,177.93,Mon,10:00,150,57,38.0,5.4,18+,503.98,Sunny,0
+2024-04-03,Space Odyssey,Sci-Fi,165.74,Tue,17:30,150,63,42.0,5.8,18+,7096.64,Snow,0
+2024-08-25,Rock Legends,Musical,185.81,Sat,15:00,250,66,26.4,6.4,PG-13,15604.25,Snow,0
+2024-07-22,Deep Ocean,Documentary,175.41,Thu,12:30,120,63,52.5,4.9,G,11277.86,Cloudy,1
+2024-08-05,Space Odyssey,Sci-Fi,191.98,Thu,17:30,120,62,51.67,7.0,PG-13,5223.25,Sunny,0
+2024-12-06,Cartoon Fun,Animation,128.59,Fri,22:30,150,98,65.33,8.4,PG,13899.06,Snow,0
+2024-02-08,Mystery Case,Detective,202.7,Fri,20:00,80,44,55.0,5.6,18+,11347.82,Sunny,0
+2024-04-09,Rock Legends,Musical,157.9,Fri,22:30,80,80,100.0,9.3,18+,15924.87,Sunny,0
+2024-10-15,Rock Legends,Musical,233.01,Tue,15:00,200,79,39.5,7.8,18+,14700.5,Snow,0
+2024-09-10,Thunder Strike,Action,122.43,Wed,22:30,150,95,63.33,8.5,PG,12202.16,Snow,0
+2024-08-09,Deep Ocean,Documentary,219.44,Wed,10:00,200,43,21.5,6.0,R,9763.55,Sunny,0
+2024-12-22,Thunder Strike,Action,157.92,Wed,22:30,150,84,56.0,8.3,PG-13,2663.64,Sunny,1
+2024-01-23,Mystery Case,Detective,123.94,Thu,15:00,250,51,20.4,5.4,G,5226.66,Sunny,0
+2024-09-06,Rock Legends,Musical,130.64,Thu,15:00,120,98,81.67,8.3,PG,8381.99,Cloudy,0
+2024-01-10,Deep Ocean,Documentary,137.19,Sun,20:00,250,79,31.6,7.3,R,11985.99,Rainy,0
+2024-09-02,Space Odyssey,Sci-Fi,166.97,Wed,12:30,150,73,48.67,7.8,R,10274.16,Snow,0
+2024-11-20,Rock Legends,Musical,170.91,Sat,12:30,120,48,40.0,5.2,G,5763.69,Cloudy,0
+2024-04-09,Cartoon Fun,Animation,127.05,Fri,12:30,80,48,60.0,5.7,PG,129.29,Cloudy,0
+2024-10-16,Rock Legends,Musical,149.03,Mon,17:30,80,66,82.5,7.9,R,9924.78,Sunny,0
+2024-06-28,Haunted Manor,Horror,235.69,Sun,12:30,200,53,26.5,5.6,18+,5712.52,Rainy,0
+2024-08-10,Deep Ocean,Documentary,219.1,Sat,17:30,150,78,52.0,7.7,G,14692.17,Snow,0
+2024-09-06,Haunted Manor,Horror,167.45,Sat,22:30,150,54,36.0,4.9,18+,478.93,Cloudy,0
+2024-05-26,Space Odyssey,Sci-Fi,151.52,Wed,20:00,80,80,100.0,8.3,G,11696.56,Snow,0
+2024-04-05,Rock Legends,Musical,154.8,Mon,15:00,250,54,21.6,5.2,PG-13,18829.48,Cloudy,0
+2024-09-13,Space Odyssey,Sci-Fi,174.54,Wed,17:30,120,70,58.33,7.8,PG-13,3488.19,Snow,0
+2024-11-20,Love in Paris,Romance,109.09,Mon,22:30,250,130,52.0,7.9,PG,9432.99,Sunny,1
+2024-01-04,Rock Legends,Musical,139.7,Fri,20:00,250,91,36.4,6.0,R,1828.44,Sunny,1
+2024-01-16,Haunted Manor,Horror,83.26,Sat,17:30,80,80,100.0,7.9,18+,12513.64,Rainy,0
+2024-10-06,Deep Ocean,Documentary,165.97,Thu,20:00,80,70,87.5,7.4,R,11010.63,Sunny,0
+2024-12-01,Haunted Manor,Horror,175.89,Wed,22:30,80,50,62.5,6.2,PG-13,8147.31,Cloudy,0
+2024-09-03,Space Odyssey,Sci-Fi,130.67,Wed,12:30,200,66,33.0,5.5,18+,10427.54,Cloudy,0
+2024-09-14,Mystery Case,Detective,212.96,Sat,12:30,250,34,13.6,4.1,PG,17931.49,Cloudy,0
+2024-06-08,Rock Legends,Musical,100.97,Sun,22:30,150,104,69.33,7.5,R,3925.89,Cloudy,0
+2024-12-05,Cartoon Fun,Animation,91.43,Sat,20:00,120,47,39.17,4.7,G,451.29,Sunny,0
+2024-05-31,Thunder Strike,Action,158.98,Fri,10:00,200,61,30.5,7.1,G,17233.3,Sunny,0
+2024-06-26,Deep Ocean,Documentary,191.88,Sun,20:00,150,60,40.0,6.6,18+,11542.34,Rainy,0
+2024-06-11,Cartoon Fun,Animation,217.36,Tue,17:30,250,83,33.2,8.0,G,17813.17,Snow,0
+2024-02-02,Cartoon Fun,Animation,131.64,Wed,20:00,80,72,90.0,6.5,G,11938.9,Rainy,0
+2024-06-27,Rock Legends,Musical,193.15,Mon,22:30,250,55,22.0,6.5,PG-13,16203.22,Snow,0
+2024-04-10,Mystery Case,Detective,148.46,Fri,15:00,120,97,80.83,8.1,PG,8593.47,Sunny,0
+2024-09-24,Rock Legends,Musical,143.09,Sat,10:00,200,62,31.0,7.5,G,14997.2,Cloudy,0
+2024-11-18,Mystery Case,Detective,185.35,Tue,20:00,200,89,44.5,7.5,G,18260.83,Rainy,0
+2024-03-05,Love in Paris,Romance,176.09,Wed,10:00,120,79,65.83,7.7,R,11442.46,Rainy,0
+2024-06-16,Deep Ocean,Documentary,86.94,Wed,10:00,150,64,42.67,4.7,18+,3615.7,Sunny,0
+2024-11-25,Space Odyssey,Sci-Fi,209.06,Sat,20:00,150,80,53.33,8.1,PG-13,5375.95,Snow,0
+2024-02-12,Space Odyssey,Sci-Fi,205.2,Sat,20:00,200,89,44.5,7.9,18+,3972.89,Rainy,0
+2024-02-13,Cartoon Fun,Animation,124.98,Sat,12:30,200,83,41.5,5.5,R,4937.14,Snow,0
+2024-10-11,Thunder Strike,Action,165.83,Thu,20:00,80,60,75.0,6.6,R,6128.31,Rainy,0
+2024-01-12,Love in Paris,Romance,169.76,Tue,20:00,150,53,35.33,6.9,R,11102.68,Cloudy,0
+2024-04-04,Space Odyssey,Sci-Fi,160.43,Fri,12:30,120,59,49.17,6.8,G,11759.83,Sunny,0
+2024-10-28,Space Odyssey,Sci-Fi,127.99,Sat,12:30,150,103,68.67,7.5,18+,8529.99,Snow,0
+2024-09-09,Thunder Strike,Action,123.14,Mon,15:00,80,80,100.0,9.1,18+,12308.42,Sunny,1
+2024-08-29,Thunder Strike,Action,148.98,Wed,20:00,200,85,42.5,8.6,18+,1631.5,Sunny,0
+2024-02-04,Space Odyssey,Sci-Fi,196.91,Fri,17:30,200,53,26.5,5.0,PG,1755.76,Snow,0
+2024-08-02,Haunted Manor,Horror,171.74,Thu,10:00,80,77,96.25,7.9,PG-13,3436.59,Snow,0
+2024-12-02,Thunder Strike,Action,135.18,Sat,22:30,120,120,100.0,9.0,G,10361.55,Rainy,0
+2024-03-30,Haunted Manor,Horror,180.87,Sun,12:30,200,125,62.5,7.6,PG-13,4279.89,Snow,1
+2024-09-20,Deep Ocean,Documentary,60.0,Wed,22:30,250,101,40.4,8.6,G,5665.69,Sunny,0
+2024-04-02,Love in Paris,Romance,195.95,Sun,20:00,200,84,42.0,10.0,18+,8006.26,Sunny,0
+2024-03-30,Thunder Strike,Action,80.41,Tue,17:30,250,105,42.0,8.5,PG,16237.32,Snow,0
+2024-04-24,Deep Ocean,Documentary,135.5,Sat,10:00,80,80,100.0,7.4,PG,277.24,Snow,0
+2024-04-14,Mystery Case,Detective,105.21,Sat,20:00,80,80,100.0,8.6,18+,12987.58,Rainy,0
+2024-07-14,Cartoon Fun,Animation,98.21,Sun,17:30,200,87,43.5,7.2,PG-13,13377.53,Rainy,0
+2024-11-09,Haunted Manor,Horror,196.43,Sat,10:00,150,69,46.0,7.0,R,15973.12,Rainy,0
+2024-04-23,Love in Paris,Romance,131.29,Sat,17:30,250,64,25.6,6.5,18+,18655.06,Sunny,0
+2024-03-15,Haunted Manor,Horror,163.86,Fri,12:30,120,107,89.17,9.3,G,402.76,Snow,0
+2024-08-04,Mystery Case,Detective,148.12,Mon,20:00,200,78,39.0,5.8,PG-13,3075.67,Cloudy,1
+2024-10-03,Love in Paris,Romance,169.08,Sat,17:30,120,83,69.17,9.3,R,17723.43,Snow,0
+2024-09-05,Space Odyssey,Sci-Fi,153.07,Sat,17:30,200,101,50.5,7.7,PG,9170.37,Snow,0
+2024-06-12,Mystery Case,Detective,98.68,Thu,20:00,150,74,49.33,4.9,G,11291.81,Rainy,0
+2024-12-22,Rock Legends,Musical,189.85,Fri,10:00,150,61,40.67,7.6,PG,13260.54,Cloudy,0
+2024-07-10,Rock Legends,Musical,130.25,Wed,20:00,150,40,26.67,3.8,G,13581.33,Snow,0
+2024-08-14,Thunder Strike,Action,87.74,Mon,17:30,150,105,70.0,7.9,R,18634.81,Cloudy,0
+2024-06-25,Love in Paris,Romance,132.88,Wed,22:30,80,80,100.0,8.3,G,19938.99,Cloudy,0
+2024-04-08,Thunder Strike,Action,210.03,Wed,15:00,80,52,65.0,6.1,R,14403.15,Snow,0
+2024-02-05,Love in Paris,Romance,184.01,Tue,22:30,250,92,36.8,7.2,18+,5744.42,Rainy,1
+2024-04-05,Mystery Case,Detective,136.05,Tue,10:00,120,108,90.0,9.9,18+,17595.05,Rainy,0
+2024-05-31,Love in Paris,Romance,136.03,Wed,17:30,200,80,40.0,6.2,G,984.42,Snow,0
+2024-05-30,Space Odyssey,Sci-Fi,137.13,Sun,15:00,200,63,31.5,5.4,PG-13,4621.62,Cloudy,1
+2024-07-08,Cartoon Fun,Animation,233.07,Thu,10:00,80,62,77.5,9.2,PG,17947.71,Cloudy,0
+2024-08-11,Rock Legends,Musical,165.28,Tue,22:30,200,122,61.0,9.9,G,5123.83,Rainy,0
+2024-02-06,Cartoon Fun,Animation,167.2,Tue,12:30,80,80,100.0,7.0,G,4413.02,Rainy,0
+2024-09-24,Love in Paris,Romance,191.21,Tue,20:00,250,84,33.6,8.5,PG,2762.51,Rainy,0
+2024-07-01,Cartoon Fun,Animation,159.55,Tue,10:00,120,109,90.83,9.0,G,17182.24,Cloudy,1
+2024-01-13,Space Odyssey,Sci-Fi,139.64,Mon,10:00,250,81,32.4,5.9,PG,10001.17,Cloudy,1
+2024-10-05,Rock Legends,Musical,142.15,Wed,17:30,150,61,40.67,6.3,R,13497.86,Rainy,0
+2024-08-04,Deep Ocean,Documentary,147.14,Sun,15:00,150,89,59.33,8.8,PG-13,4781.33,Rainy,0
+2024-12-20,Love in Paris,Romance,148.51,Sun,22:30,150,110,73.33,9.5,18+,15160.81,Cloudy,0
+2024-12-26,Rock Legends,Musical,179.11,Mon,10:00,250,58,23.2,7.8,18+,15200.11,Sunny,0
+2024-10-12,Cartoon Fun,Animation,152.08,Fri,20:00,200,61,30.5,5.7,PG-13,6251.96,Cloudy,0
+2024-09-29,Deep Ocean,Documentary,179.31,Sun,10:00,120,120,100.0,10.0,PG,8213.65,Snow,0
+2024-03-02,Haunted Manor,Horror,146.77,Fri,10:00,150,88,58.67,6.2,PG-13,4193.81,Snow,1
+2024-03-24,Rock Legends,Musical,153.15,Sun,17:30,150,79,52.67,6.5,PG,19531.22,Cloudy,1
+2024-08-04,Haunted Manor,Horror,70.07,Sat,10:00,150,117,78.0,7.5,PG-13,12912.05,Snow,0
+2024-12-07,Mystery Case,Detective,186.65,Fri,15:00,120,94,78.33,9.3,G,18690.88,Sunny,0
+2024-07-05,Deep Ocean,Documentary,163.86,Mon,17:30,150,92,61.33,8.3,G,6067.71,Sunny,0
+2024-01-19,Deep Ocean,Documentary,189.92,Sat,12:30,120,72,60.0,7.6,PG-13,15637.82,Sunny,0
+2024-06-25,Rock Legends,Musical,60.0,Wed,12:30,150,100,66.67,7.7,R,15317.17,Snow,0
+2024-04-09,Mystery Case,Detective,233.53,Sun,22:30,250,65,26.0,7.1,PG-13,13833.11,Rainy,0
+2024-08-20,Cartoon Fun,Animation,144.42,Fri,22:30,250,76,30.4,7.8,18+,19312.78,Sunny,0
+2024-03-16,Thunder Strike,Action,194.33,Tue,22:30,120,26,21.67,3.2,G,7871.11,Sunny,0
+2024-09-21,Love in Paris,Romance,108.4,Fri,17:30,250,73,29.2,6.6,PG-13,2614.35,Rainy,0
+2024-10-10,Mystery Case,Detective,174.51,Thu,15:00,120,77,64.17,7.4,18+,13434.18,Cloudy,1
+2024-07-24,Deep Ocean,Documentary,107.86,Tue,17:30,250,80,32.0,5.3,G,14586.2,Rainy,0
+2024-08-10,Thunder Strike,Action,125.05,Tue,17:30,250,80,32.0,7.6,R,11501.21,Cloudy,0
+2024-02-21,Deep Ocean,Documentary,226.56,Tue,17:30,120,45,37.5,6.7,R,4136.36,Cloudy,0
+2024-12-04,Rock Legends,Musical,142.37,Sun,17:30,200,113,56.5,9.6,18+,10089.12,Rainy,0
+2024-05-23,Cartoon Fun,Animation,158.7,Sat,10:00,250,134,53.6,9.4,PG-13,6243.79,Sunny,1
+2024-03-09,Space Odyssey,Sci-Fi,184.8,Sun,22:30,150,61,40.67,6.3,G,8549.33,Cloudy,0
+2024-04-08,Deep Ocean,Documentary,169.83,Fri,22:30,200,68,34.0,6.8,R,12904.37,Rainy,0
+2024-01-25,Cartoon Fun,Animation,156.02,Sun,20:00,120,57,47.5,6.9,18+,14904.29,Sunny,0
+2024-02-22,Haunted Manor,Horror,164.6,Tue,12:30,200,54,27.0,6.3,PG,4644.49,Cloudy,0
+2024-05-30,Deep Ocean,Documentary,246.14,Sat,22:30,80,69,86.25,7.3,PG-13,8106.51,Snow,0
+2024-05-23,Thunder Strike,Action,147.7,Thu,15:00,80,61,76.25,5.9,PG,5383.23,Sunny,0
+2024-02-26,Cartoon Fun,Animation,158.04,Mon,10:00,250,62,24.8,5.3,PG-13,3972.63,Rainy,0
+2024-02-08,Mystery Case,Detective,192.03,Thu,12:30,250,85,34.0,7.9,G,15667.74,Snow,0
+2024-04-18,Cartoon Fun,Animation,194.22,Wed,20:00,150,76,50.67,7.9,18+,18185.05,Rainy,0
+2024-06-29,Mystery Case,Detective,197.48,Sat,17:30,200,54,27.0,5.8,G,7404.64,Cloudy,0
+2024-02-11,Mystery Case,Detective,175.55,Sat,20:00,80,77,96.25,8.3,PG,15025.58,Sunny,0
+2024-07-04,Space Odyssey,Sci-Fi,104.28,Tue,12:30,250,70,28.0,6.1,18+,17939.91,Snow,0
+2024-08-10,Thunder Strike,Action,215.34,Thu,22:30,200,76,38.0,7.4,G,16922.48,Snow,1
+2024-05-01,Love in Paris,Romance,104.15,Fri,12:30,250,150,60.0,8.2,G,3656.27,Snow,1
+2024-05-12,Thunder Strike,Action,162.11,Wed,10:00,250,78,31.2,6.9,G,19125.84,Cloudy,0
+2024-06-11,Rock Legends,Musical,119.83,Sun,10:00,80,78,97.5,7.7,PG,7533.53,Sunny,0
+2024-08-02,Deep Ocean,Documentary,147.43,Sat,15:00,80,72,90.0,6.2,G,6784.81,Sunny,0
+2024-08-08,Thunder Strike,Action,163.15,Sun,17:30,250,70,28.0,6.7,R,1248.63,Cloudy,0
+2024-08-22,Deep Ocean,Documentary,162.85,Thu,22:30,120,69,57.5,6.7,PG-13,9723.47,Rainy,0
+2024-11-26,Deep Ocean,Documentary,166.88,Tue,22:30,250,54,21.6,5.9,R,2180.27,Snow,0
+2024-05-25,Deep Ocean,Documentary,214.55,Fri,20:00,250,53,21.2,6.7,PG,4970.8,Rainy,0
+2024-08-26,Space Odyssey,Sci-Fi,168.14,Tue,17:30,150,47,31.33,4.7,PG,6338.85,Cloudy,0
+2024-03-16,Love in Paris,Romance,140.23,Wed,20:00,150,88,58.67,6.3,G,16176.53,Rainy,1
+2024-01-09,Mystery Case,Detective,188.56,Sun,17:30,150,65,43.33,6.6,18+,17509.77,Rainy,0
+2024-03-14,Thunder Strike,Action,197.58,Sun,12:30,120,55,45.83,6.6,R,6049.33,Cloudy,0
+2024-09-09,Rock Legends,Musical,100.9,Thu,12:30,120,101,84.17,6.6,PG,17173.96,Snow,0
+2024-08-17,Thunder Strike,Action,173.9,Sun,17:30,250,64,25.6,6.9,PG-13,17144.62,Rainy,0
+2024-01-07,Mystery Case,Detective,178.05,Tue,15:00,150,87,58.0,7.7,PG,15293.02,Sunny,1
+2024-06-22,Cartoon Fun,Animation,138.1,Wed,12:30,120,103,85.83,8.3,R,2933.9,Rainy,0
+2024-05-20,Deep Ocean,Documentary,205.03,Sat,15:00,80,60,75.0,6.0,PG-13,13806.46,Rainy,0
+2024-06-16,Cartoon Fun,Animation,144.0,Fri,12:30,250,59,23.6,5.2,PG-13,18900.48,Sunny,0
+2024-06-18,Rock Legends,Musical,155.02,Thu,22:30,200,55,27.5,5.4,G,13650.81,Snow,0
+2024-10-09,Cartoon Fun,Animation,143.08,Thu,10:00,250,72,28.8,6.3,18+,6632.34,Sunny,0
+2024-05-01,Cartoon Fun,Animation,150.62,Sun,10:00,200,83,41.5,6.5,PG-13,10011.59,Snow,0
+2024-07-12,Deep Ocean,Documentary,106.15,Wed,22:30,150,68,45.33,5.8,G,12914.5,Cloudy,0
+2024-01-05,Mystery Case,Detective,92.4,Sun,17:30,200,65,32.5,5.1,18+,10211.41,Cloudy,0
+2024-01-29,Mystery Case,Detective,213.78,Thu,20:00,150,57,38.0,6.3,G,2399.06,Rainy,0
+2024-06-13,Mystery Case,Detective,116.12,Fri,10:00,80,80,100.0,7.3,PG,6241.28,Rainy,0
+2024-12-04,Thunder Strike,Action,110.34,Fri,12:30,200,95,47.5,7.9,PG,16047.92,Cloudy,0
+2024-05-15,Love in Paris,Romance,63.86,Thu,12:30,250,80,32.0,6.2,18+,17228.36,Sunny,0
+2024-12-30,Thunder Strike,Action,124.44,Tue,10:00,150,73,48.67,6.4,G,2746.0,Cloudy,0
+2024-11-16,Cartoon Fun,Animation,97.08,Sun,10:00,250,74,29.6,5.6,R,19047.74,Snow,0
+2024-12-07,Love in Paris,Romance,215.68,Tue,20:00,120,75,62.5,7.0,G,6576.45,Rainy,0
+2024-05-24,Haunted Manor,Horror,190.39,Sun,10:00,150,51,34.0,5.7,R,13246.27,Sunny,0
+2024-11-22,Thunder Strike,Action,122.47,Fri,17:30,200,85,42.5,7.9,PG-13,15036.5,Rainy,0
+2024-08-04,Thunder Strike,Action,240.1,Tue,20:00,150,29,19.33,4.3,PG-13,16238.92,Cloudy,0
+2024-10-27,Deep Ocean,Documentary,189.27,Sun,22:30,250,61,24.4,6.5,PG-13,18914.99,Sunny,0
+2024-05-11,Mystery Case,Detective,137.01,Wed,22:30,80,80,100.0,7.5,G,6258.39,Cloudy,0
+2024-10-18,Mystery Case,Detective,60.0,Mon,10:00,150,113,75.33,7.3,18+,17170.13,Snow,0
+2024-03-10,Love in Paris,Romance,241.64,Sat,12:30,200,80,40.0,10.0,R,2633.74,Cloudy,0
+2024-09-08,Thunder Strike,Action,94.42,Thu,22:30,120,80,66.67,7.5,G,14100.82,Sunny,0
+2024-10-01,Mystery Case,Detective,84.18,Sun,10:00,80,64,80.0,5.5,PG-13,14839.55,Cloudy,0
+2024-12-29,Thunder Strike,Action,190.9,Wed,17:30,120,82,68.33,6.9,PG,13554.46,Rainy,0
+2024-06-30,Cartoon Fun,Animation,247.59,Fri,17:30,150,40,26.67,4.3,PG-13,5046.29,Rainy,0
+2024-06-15,Haunted Manor,Horror,205.37,Mon,12:30,250,60,24.0,6.9,18+,17460.86,Sunny,0
+2024-03-31,Mystery Case,Detective,172.56,Sat,20:00,250,72,28.8,5.8,PG-13,3377.17,Rainy,0
+2024-07-20,Space Odyssey,Sci-Fi,173.79,Sun,12:30,200,77,38.5,8.4,18+,1072.7,Snow,0
+2024-12-11,Haunted Manor,Horror,184.14,Fri,10:00,250,75,30.0,6.2,PG,14349.3,Snow,0
+2024-01-19,Mystery Case,Detective,180.36,Sun,12:30,80,56,70.0,6.8,R,9509.51,Sunny,0
+2024-02-08,Space Odyssey,Sci-Fi,161.25,Mon,20:00,250,50,20.0,6.0,PG-13,16981.96,Cloudy,0
+2024-05-05,Space Odyssey,Sci-Fi,154.17,Wed,15:00,200,101,50.5,9.6,18+,7667.94,Rainy,0
+2024-06-21,Mystery Case,Detective,147.5,Mon,12:30,150,76,50.67,6.5,R,3365.57,Rainy,0
+2024-05-20,Haunted Manor,Horror,119.84,Sun,22:30,150,96,64.0,9.7,PG,16728.84,Cloudy,0
+2024-08-29,Deep Ocean,Documentary,138.77,Tue,20:00,250,102,40.8,8.2,18+,10978.19,Cloudy,1
+2024-08-07,Love in Paris,Romance,82.28,Wed,15:00,120,105,87.5,7.7,PG,3783.92,Cloudy,1
+2024-05-05,Space Odyssey,Sci-Fi,146.07,Thu,20:00,150,70,46.67,7.6,PG,14407.68,Cloudy,0
+2024-02-27,Mystery Case,Detective,110.46,Fri,20:00,250,106,42.4,7.6,G,10222.27,Rainy,0
+2024-05-27,Deep Ocean,Documentary,105.86,Tue,22:30,200,55,27.5,4.1,R,12086.26,Snow,0
+2024-11-12,Deep Ocean,Documentary,157.2,Sun,15:00,250,60,24.0,6.6,G,9217.97,Sunny,0
+2024-12-26,Deep Ocean,Documentary,205.68,Thu,12:30,150,73,48.67,8.3,PG,16574.18,Sunny,0
+2024-01-01,Cartoon Fun,Animation,186.73,Mon,15:00,200,70,35.0,6.9,18+,16591.25,Cloudy,0
+2024-12-13,Haunted Manor,Horror,87.18,Tue,12:30,250,78,31.2,4.9,PG-13,14187.78,Snow,0
+2024-07-08,Space Odyssey,Sci-Fi,110.41,Sun,22:30,80,80,100.0,6.9,G,2108.03,Rainy,0
+2024-07-09,Mystery Case,Detective,187.63,Thu,20:00,200,110,55.0,9.6,PG-13,16777.08,Rainy,0
+2024-11-07,Deep Ocean,Documentary,110.7,Wed,12:30,80,80,100.0,8.9,G,13420.26,Sunny,0
+2024-04-26,Love in Paris,Romance,141.01,Mon,17:30,120,60,50.0,6.9,R,13940.48,Cloudy,0
+2024-05-13,Love in Paris,Romance,172.0,Thu,15:00,200,114,57.0,8.4,PG-13,7259.66,Snow,1
+2024-02-27,Rock Legends,Musical,111.27,Mon,15:00,80,80,100.0,6.5,G,17585.59,Sunny,0
+2024-02-13,Deep Ocean,Documentary,154.22,Thu,10:00,150,47,31.33,4.4,PG,14507.43,Snow,0
+2024-06-21,Love in Paris,Romance,96.64,Fri,20:00,150,54,36.0,5.6,18+,2251.81,Cloudy,0
+2024-06-08,Space Odyssey,Sci-Fi,125.95,Wed,20:00,120,111,92.5,9.3,PG,8155.56,Cloudy,1
+2024-06-21,Haunted Manor,Horror,162.79,Tue,22:30,200,72,36.0,6.6,R,17727.61,Sunny,0
+2024-11-12,Haunted Manor,Horror,86.28,Thu,12:30,200,84,42.0,6.6,R,943.93,Cloudy,0
+2024-10-29,Mystery Case,Detective,167.62,Mon,22:30,200,66,33.0,6.6,G,19228.33,Snow,0
+2024-05-28,Love in Paris,Romance,149.21,Wed,22:30,120,120,100.0,9.9,PG,13583.25,Snow,0
+2024-03-20,Thunder Strike,Action,172.1,Tue,17:30,200,88,44.0,9.4,PG-13,12627.52,Sunny,0
+2024-07-31,Love in Paris,Romance,158.96,Mon,20:00,150,103,68.67,10.0,G,5411.19,Cloudy,0
+2024-07-21,Rock Legends,Musical,204.57,Wed,17:30,80,59,73.75,6.8,G,4975.84,Rainy,0
+2024-09-08,Thunder Strike,Action,155.01,Mon,10:00,150,109,72.67,7.4,PG,18841.16,Cloudy,1
+2024-08-16,Rock Legends,Musical,132.82,Sun,15:00,150,46,30.67,4.7,18+,5965.45,Sunny,0
+2024-06-12,Deep Ocean,Documentary,154.89,Sat,22:30,80,80,100.0,9.2,R,15510.11,Sunny,0
+2024-08-14,Deep Ocean,Documentary,171.73,Sat,22:30,150,47,31.33,5.2,PG-13,7862.44,Rainy,0
+2024-05-26,Mystery Case,Detective,151.95,Wed,17:30,120,69,57.5,7.3,R,2785.08,Sunny,0
+2024-01-20,Rock Legends,Musical,151.62,Sun,20:00,80,65,81.25,5.4,G,214.31,Sunny,1
+2024-02-16,Mystery Case,Detective,121.92,Tue,15:00,150,81,54.0,6.1,18+,10885.15,Rainy,0
+2024-08-20,Space Odyssey,Sci-Fi,123.48,Tue,22:30,250,62,24.8,5.7,G,19515.58,Rainy,0
+2024-10-31,Love in Paris,Romance,93.9,Mon,17:30,150,96,64.0,6.1,18+,7382.72,Snow,0
+2024-01-14,Thunder Strike,Action,219.98,Wed,17:30,120,42,35.0,6.2,PG,7143.85,Sunny,0
+2024-05-22,Thunder Strike,Action,100.25,Sun,12:30,200,92,46.0,6.2,R,6881.83,Rainy,0
+2024-01-01,Mystery Case,Detective,122.28,Thu,15:00,150,121,80.67,8.3,G,10410.88,Snow,0
+2024-02-23,Love in Paris,Romance,121.26,Sat,17:30,200,59,29.5,5.3,18+,8813.3,Sunny,0
+2024-09-15,Haunted Manor,Horror,185.8,Sun,12:30,250,84,33.6,7.3,18+,17598.29,Rainy,0
+2024-05-23,Thunder Strike,Action,138.2,Tue,20:00,150,97,64.67,8.8,G,10110.42,Sunny,0
+2024-01-12,Haunted Manor,Horror,199.91,Sun,17:30,80,58,72.5,6.2,R,10155.16,Snow,0
+2024-11-25,Love in Paris,Romance,123.06,Sat,12:30,200,94,47.0,5.9,PG,2767.43,Cloudy,1
+2024-08-11,Haunted Manor,Horror,161.16,Thu,12:30,250,58,23.2,6.7,PG,19654.79,Sunny,0
+2024-09-28,Space Odyssey,Sci-Fi,116.59,Thu,15:00,80,80,100.0,8.8,PG-13,4999.46,Sunny,0
+2024-12-23,Rock Legends,Musical,235.81,Fri,22:30,80,57,71.25,7.3,PG-13,1467.28,Sunny,0
+2024-06-04,Deep Ocean,Documentary,102.5,Mon,12:30,80,68,85.0,6.2,PG-13,13262.92,Sunny,0
+2024-01-08,Deep Ocean,Documentary,162.39,Mon,17:30,80,80,100.0,7.7,R,11907.33,Rainy,0
+2024-05-01,Mystery Case,Detective,175.35,Mon,10:00,150,62,41.33,5.3,PG-13,8302.91,Cloudy,1
+2024-12-13,Space Odyssey,Sci-Fi,166.55,Wed,20:00,150,85,56.67,8.0,PG-13,8443.84,Sunny,0
+2024-06-12,Thunder Strike,Action,142.59,Tue,17:30,150,142,94.67,7.6,R,15701.28,Rainy,1
+2024-03-30,Mystery Case,Detective,144.81,Sun,17:30,250,67,26.8,6.5,PG-13,3914.25,Cloudy,0
+2024-05-15,Mystery Case,Detective,151.75,Tue,20:00,250,72,28.8,5.7,PG,16405.07,Snow,0
+2024-07-04,Deep Ocean,Documentary,144.12,Fri,20:00,250,104,41.6,5.7,G,12974.94,Snow,1
+2024-11-11,Love in Paris,Romance,188.56,Sat,12:30,120,68,56.67,7.8,PG,8379.4,Snow,0
+2024-06-26,Thunder Strike,Action,238.42,Fri,17:30,250,86,34.4,8.8,PG,9160.57,Snow,1
+2024-01-28,Mystery Case,Detective,127.7,Fri,12:30,150,84,56.0,6.0,18+,5132.94,Snow,0
+2024-08-07,Thunder Strike,Action,95.21,Thu,15:00,150,133,88.67,7.7,G,15042.29,Cloudy,1
+2024-12-22,Rock Legends,Musical,146.47,Mon,12:30,120,44,36.67,3.9,PG,10257.49,Sunny,0
+2024-02-10,Love in Paris,Romance,253.19,Sun,15:00,120,46,38.33,6.1,G,6417.09,Snow,0
+2024-08-15,Thunder Strike,Action,117.85,Wed,22:30,250,64,25.6,7.0,PG,11921.0,Sunny,0
+2024-07-10,Haunted Manor,Horror,215.56,Tue,10:00,200,42,21.0,5.6,R,19914.69,Sunny,0
+2024-05-24,Mystery Case,Detective,217.11,Wed,17:30,120,38,31.67,5.6,R,8705.25,Sunny,0
+2024-07-19,Haunted Manor,Horror,127.86,Mon,15:00,80,59,73.75,6.0,PG-13,18413.83,Sunny,0
+2024-07-30,Love in Paris,Romance,172.76,Mon,10:00,150,76,50.67,7.4,R,6900.34,Sunny,0
+2024-08-07,Space Odyssey,Sci-Fi,215.14,Tue,20:00,80,43,53.75,6.7,G,1094.65,Cloudy,0
+2024-08-27,Haunted Manor,Horror,134.83,Thu,22:30,150,43,28.67,3.6,18+,4084.84,Sunny,0
+2024-02-15,Mystery Case,Detective,141.86,Sat,12:30,150,38,25.33,3.8,PG-13,8373.9,Cloudy,0
+2024-02-04,Mystery Case,Detective,126.73,Sun,10:00,120,68,56.67,6.1,PG,4392.7,Cloudy,0
+2024-09-09,Deep Ocean,Documentary,109.41,Fri,15:00,120,72,60.0,7.7,R,4.54,Sunny,0
+2024-03-22,Love in Paris,Romance,124.03,Thu,17:30,80,29,36.25,2.9,PG-13,18300.03,Cloudy,0
+2024-09-12,Deep Ocean,Documentary,101.04,Mon,22:30,150,72,48.0,6.3,R,16877.59,Snow,0
+2024-07-15,Mystery Case,Detective,151.36,Mon,20:00,80,80,100.0,6.2,PG-13,14845.84,Snow,0
+2024-10-29,Rock Legends,Musical,119.2,Sun,20:00,200,175,87.5,9.1,G,3356.29,Snow,1
+2024-01-10,Mystery Case,Detective,159.35,Thu,10:00,80,61,76.25,6.4,G,2407.27,Sunny,0
+2024-11-07,Deep Ocean,Documentary,87.76,Fri,10:00,250,97,38.8,7.6,PG,1352.09,Snow,0
+2024-10-12,Deep Ocean,Documentary,163.24,Fri,12:30,80,80,100.0,7.2,PG-13,14480.58,Rainy,0
+2024-08-29,Love in Paris,Romance,183.34,Mon,20:00,250,38,15.2,3.8,18+,18576.16,Rainy,0
+2024-09-07,Space Odyssey,Sci-Fi,70.25,Sat,22:30,250,107,42.8,8.2,G,8610.72,Rainy,0
+2024-12-30,Rock Legends,Musical,164.96,Fri,22:30,250,85,34.0,7.3,PG,2382.81,Snow,0
+2024-01-05,Cartoon Fun,Animation,199.11,Fri,20:00,200,76,38.0,7.8,PG-13,10247.86,Cloudy,0
+2024-04-28,Mystery Case,Detective,101.61,Tue,12:30,80,80,100.0,10.0,PG,6976.64,Rainy,0
+2024-10-15,Space Odyssey,Sci-Fi,216.9,Sat,17:30,80,26,32.5,3.9,G,7496.5,Cloudy,0
+2024-03-05,Love in Paris,Romance,166.76,Tue,12:30,200,106,53.0,9.6,PG,12426.61,Cloudy,0
+2024-05-25,Thunder Strike,Action,121.8,Wed,15:00,150,81,54.0,6.6,PG-13,14374.36,Sunny,1
+2024-08-11,Space Odyssey,Sci-Fi,147.77,Thu,15:00,120,75,62.5,7.4,R,2212.07,Rainy,0
+2024-08-26,Mystery Case,Detective,172.33,Mon,10:00,80,65,81.25,6.9,18+,711.8,Sunny,0
+2024-06-25,Space Odyssey,Sci-Fi,153.04,Fri,12:30,120,93,77.5,6.4,G,19886.61,Sunny,1
+2024-09-23,Haunted Manor,Horror,171.55,Wed,12:30,200,56,28.0,6.1,PG-13,4654.57,Sunny,0
+2024-12-06,Deep Ocean,Documentary,113.17,Tue,22:30,150,120,80.0,7.5,PG-13,1076.61,Snow,0
+2024-10-08,Deep Ocean,Documentary,156.77,Fri,10:00,150,49,32.67,4.7,PG,3797.51,Sunny,0
+2024-03-03,Mystery Case,Detective,93.45,Thu,22:30,150,104,69.33,8.1,G,779.16,Cloudy,1
+2024-08-04,Haunted Manor,Horror,145.55,Tue,17:30,200,120,60.0,6.4,R,7836.22,Rainy,1
+2024-12-07,Rock Legends,Musical,113.84,Sat,12:30,250,57,22.8,5.3,R,16048.04,Cloudy,0
+2024-11-10,Deep Ocean,Documentary,120.58,Sat,22:30,250,76,30.4,6.3,18+,6824.89,Rainy,0
+2024-10-09,Love in Paris,Romance,199.44,Mon,20:00,120,91,75.83,8.9,18+,8883.67,Snow,0
+2024-06-25,Deep Ocean,Documentary,193.65,Fri,22:30,250,58,23.2,6.2,PG,13511.74,Rainy,0
+2024-04-07,Cartoon Fun,Animation,174.37,Wed,12:30,250,69,27.6,7.5,G,10177.88,Rainy,0
+2024-04-14,Rock Legends,Musical,106.31,Mon,17:30,150,84,56.0,5.9,R,17228.91,Rainy,1
+2024-04-08,Cartoon Fun,Animation,137.34,Fri,12:30,150,99,66.0,8.1,G,17320.71,Rainy,0
+2024-11-06,Cartoon Fun,Animation,198.52,Fri,20:00,120,76,63.33,8.0,PG,198.21,Cloudy,0
+2024-01-06,Love in Paris,Romance,155.67,Fri,15:00,80,80,100.0,9.8,G,15560.93,Rainy,0
+2024-07-15,Haunted Manor,Horror,242.77,Sun,15:00,120,55,45.83,6.7,G,9214.67,Sunny,0
+2024-12-16,Cartoon Fun,Animation,165.73,Fri,17:30,120,83,69.17,8.0,G,19776.81,Rainy,0
+2024-05-12,Rock Legends,Musical,157.68,Fri,17:30,200,63,31.5,7.1,PG,9664.64,Sunny,0
+2024-12-23,Deep Ocean,Documentary,137.64,Mon,20:00,200,125,62.5,8.9,PG,19737.92,Snow,1
+2024-09-15,Mystery Case,Detective,155.34,Thu,22:30,120,65,54.17,5.9,PG,15091.39,Sunny,1
+2024-01-23,Rock Legends,Musical,143.9,Sun,15:00,120,75,62.5,8.1,R,4972.1,Cloudy,0
+2024-02-22,Space Odyssey,Sci-Fi,178.32,Thu,15:00,120,88,73.33,6.7,PG-13,10767.9,Sunny,1
+2024-06-13,Deep Ocean,Documentary,188.27,Mon,15:00,250,70,28.0,6.9,G,19842.71,Cloudy,0
+2024-07-20,Love in Paris,Romance,118.56,Sat,15:00,200,93,46.5,7.1,18+,17150.61,Sunny,0
+2024-03-23,Cartoon Fun,Animation,96.75,Thu,20:00,120,93,77.5,7.4,18+,1947.34,Rainy,0
+2024-05-24,Mystery Case,Detective,76.55,Wed,17:30,150,117,78.0,6.8,PG-13,14127.44,Snow,0
+2024-03-25,Cartoon Fun,Animation,170.32,Wed,17:30,150,82,54.67,7.3,G,6911.59,Cloudy,1
+2024-03-18,Love in Paris,Romance,105.87,Sat,10:00,250,90,36.0,9.4,G,139.65,Cloudy,0
+2024-01-01,Rock Legends,Musical,63.88,Mon,22:30,250,150,60.0,8.5,G,8069.62,Rainy,0
+2024-02-20,Space Odyssey,Sci-Fi,165.54,Wed,17:30,80,80,100.0,8.3,PG,4695.09,Rainy,0
+2024-06-21,Deep Ocean,Documentary,249.72,Sun,15:00,80,36,45.0,6.3,R,16377.39,Sunny,0
+2024-07-23,Rock Legends,Musical,149.76,Mon,12:30,80,55,68.75,5.7,PG,6746.61,Cloudy,0
+2024-09-16,Space Odyssey,Sci-Fi,183.54,Wed,15:00,250,68,27.2,8.4,G,16550.47,Sunny,0
+2024-10-14,Thunder Strike,Action,153.27,Tue,15:00,250,108,43.2,8.3,PG-13,11.96,Rainy,0
+2024-02-03,Cartoon Fun,Animation,146.04,Sat,17:30,250,91,36.4,9.2,G,6156.38,Cloudy,0
+2024-12-13,Deep Ocean,Documentary,186.76,Sat,10:00,150,76,50.67,6.1,G,4823.3,Snow,0
+2024-04-04,Deep Ocean,Documentary,138.39,Sat,20:00,250,68,27.2,6.7,R,4671.35,Snow,0
+2024-03-12,Space Odyssey,Sci-Fi,160.7,Mon,12:30,150,41,27.33,4.5,G,1363.73,Cloudy,0
+2024-02-08,Thunder Strike,Action,162.87,Sun,22:30,80,60,75.0,6.4,PG,3742.49,Cloudy,0
+2024-06-02,Mystery Case,Detective,123.28,Fri,12:30,80,80,100.0,8.5,18+,11110.99,Rainy,0
+2024-09-06,Haunted Manor,Horror,189.68,Sat,10:00,80,50,62.5,6.3,R,5827.22,Cloudy,0
+2024-06-10,Mystery Case,Detective,143.0,Sun,15:00,120,88,73.33,8.0,R,8347.9,Cloudy,0
+2024-04-27,Deep Ocean,Documentary,119.77,Wed,20:00,120,120,100.0,6.7,R,7537.34,Snow,1
+2024-09-15,Deep Ocean,Documentary,171.46,Tue,20:00,200,98,49.0,7.5,G,17518.1,Rainy,0
+2024-11-01,Love in Paris,Romance,114.06,Mon,20:00,200,66,33.0,5.3,R,18105.98,Sunny,0
+2024-09-24,Space Odyssey,Sci-Fi,151.13,Wed,22:30,200,105,52.5,7.1,R,9859.14,Cloudy,1
+2024-02-23,Thunder Strike,Action,149.64,Fri,17:30,120,30,25.0,2.5,PG,6603.12,Rainy,0
+2024-08-23,Haunted Manor,Horror,193.44,Wed,15:00,120,77,64.17,6.7,PG-13,2136.01,Rainy,0
+2024-08-09,Mystery Case,Detective,168.99,Sun,12:30,200,47,23.5,4.6,PG,19068.06,Snow,0
+2024-09-07,Space Odyssey,Sci-Fi,149.0,Sat,12:30,200,110,55.0,8.8,PG,1204.54,Cloudy,1
+2024-11-08,Rock Legends,Musical,182.71,Tue,15:00,250,87,34.8,8.2,PG-13,5953.01,Cloudy,1
+2024-04-21,Love in Paris,Romance,205.61,Sun,12:30,200,74,37.0,7.7,PG-13,5961.32,Rainy,0
+2024-09-11,Thunder Strike,Action,172.31,Sun,17:30,250,78,31.2,9.3,R,6408.03,Cloudy,0
+2024-10-29,Love in Paris,Romance,150.41,Sat,20:00,150,79,52.67,5.6,PG,3285.74,Snow,0
+2024-07-25,Deep Ocean,Documentary,97.53,Thu,12:30,120,120,100.0,9.6,G,15663.23,Snow,1
+2024-08-16,Love in Paris,Romance,107.4,Sat,17:30,200,125,62.5,8.4,18+,2449.96,Snow,1
+2024-12-06,Haunted Manor,Horror,137.79,Thu,20:00,120,69,57.5,6.6,18+,12698.13,Cloudy,0
+2024-03-06,Deep Ocean,Documentary,125.62,Sat,22:30,120,77,64.17,8.7,18+,2476.92,Cloudy,0
+2024-03-15,Mystery Case,Detective,142.52,Tue,22:30,120,55,45.83,5.3,PG,1410.71,Snow,0
+2024-04-12,Mystery Case,Detective,152.27,Sun,15:00,150,50,33.33,5.8,PG-13,18188.59,Sunny,0
+2024-07-10,Rock Legends,Musical,171.19,Tue,15:00,80,66,82.5,6.1,R,3802.58,Rainy,0
+2024-09-08,Deep Ocean,Documentary,147.18,Mon,17:30,200,60,30.0,6.2,R,16425.0,Sunny,0
+2024-08-13,Deep Ocean,Documentary,169.46,Sat,22:30,80,56,70.0,5.4,18+,10892.62,Cloudy,0
+2024-10-20,Thunder Strike,Action,152.58,Sun,22:30,80,80,100.0,8.8,R,1557.13,Rainy,0
+2024-11-01,Deep Ocean,Documentary,70.98,Thu,22:30,80,80,100.0,6.6,G,19108.96,Rainy,1
+2024-04-07,Haunted Manor,Horror,112.43,Mon,17:30,120,79,65.83,7.5,G,4939.22,Cloudy,0
+2024-12-03,Rock Legends,Musical,144.24,Wed,17:30,250,58,23.2,6.1,PG-13,17192.91,Sunny,0
+2024-10-12,Thunder Strike,Action,101.61,Tue,12:30,120,55,45.83,4.3,R,3376.2,Sunny,0
+2024-11-30,Haunted Manor,Horror,174.0,Mon,22:30,120,72,60.0,7.4,PG,17078.86,Sunny,1
+2024-12-12,Love in Paris,Romance,211.23,Sun,15:00,80,26,32.5,4.1,R,264.58,Sunny,0
+2024-11-03,Mystery Case,Detective,198.75,Tue,12:30,120,77,64.17,6.9,PG,10235.61,Snow,0
+2024-09-05,Rock Legends,Musical,141.46,Mon,12:30,80,60,75.0,4.9,18+,15388.85,Rainy,0
+2024-06-14,Cartoon Fun,Animation,209.63,Wed,22:30,250,68,27.2,10.0,PG,18695.91,Sunny,0
+2024-11-30,Mystery Case,Detective,155.95,Wed,20:00,200,73,36.5,8.4,18+,18184.04,Cloudy,0
+2024-01-30,Space Odyssey,Sci-Fi,136.52,Fri,17:30,80,80,100.0,7.2,G,16392.5,Snow,0
+2024-09-03,Mystery Case,Detective,125.46,Thu,12:30,250,171,68.4,8.9,R,17763.83,Rainy,1
+2024-04-15,Mystery Case,Detective,137.9,Sun,20:00,200,64,32.0,5.7,PG-13,3984.39,Cloudy,0
+2024-02-20,Deep Ocean,Documentary,134.47,Fri,22:30,150,97,64.67,7.8,R,5683.69,Snow,0
+2024-03-21,Haunted Manor,Horror,156.82,Thu,10:00,80,80,100.0,7.3,18+,5779.37,Rainy,0
+2024-05-12,Deep Ocean,Documentary,156.42,Wed,20:00,80,80,100.0,7.4,R,7541.08,Cloudy,0
+2024-10-11,Deep Ocean,Documentary,150.12,Mon,10:00,150,126,84.0,8.9,PG-13,7866.41,Rainy,0
+2024-05-17,Cartoon Fun,Animation,167.48,Sun,10:00,150,81,54.0,8.1,18+,10891.11,Snow,0
+2024-07-02,Cartoon Fun,Animation,197.63,Sat,22:30,80,70,87.5,7.4,18+,3197.6,Sunny,0
+2024-11-25,Rock Legends,Musical,187.98,Tue,10:00,150,41,27.33,4.5,PG-13,13824.93,Snow,0
+2024-09-29,Deep Ocean,Documentary,90.6,Wed,10:00,120,58,48.33,5.6,R,3351.33,Cloudy,0
+2024-12-05,Cartoon Fun,Animation,60.0,Wed,17:30,200,94,47.0,6.8,PG-13,6206.17,Sunny,0
+2024-03-09,Thunder Strike,Action,187.37,Sun,12:30,200,72,36.0,7.1,PG,10066.9,Rainy,0
+2024-02-03,Thunder Strike,Action,95.32,Sun,22:30,200,114,57.0,5.3,G,15928.81,Rainy,1
+2024-09-18,Rock Legends,Musical,141.01,Mon,12:30,120,103,85.83,10.0,PG-13,14789.38,Rainy,0
+2024-02-22,Thunder Strike,Action,103.2,Sun,10:00,150,129,86.0,9.3,18+,12910.69,Snow,0
+2024-07-23,Rock Legends,Musical,77.92,Sat,22:30,250,137,54.8,7.9,PG,3115.47,Rainy,0
+2024-05-05,Space Odyssey,Sci-Fi,171.66,Wed,12:30,150,91,60.67,7.1,G,10940.91,Rainy,0
+2024-08-22,Cartoon Fun,Animation,180.37,Wed,10:00,80,62,77.5,6.7,PG-13,1748.93,Rainy,0
+2024-02-12,Deep Ocean,Documentary,126.94,Mon,12:30,200,88,44.0,5.6,G,7547.26,Snow,1
+2024-08-27,Rock Legends,Musical,60.0,Sun,20:00,150,96,64.0,7.1,R,8270.33,Cloudy,0
+2024-04-20,Rock Legends,Musical,128.15,Wed,17:30,250,68,27.2,7.4,18+,796.23,Sunny,0
+2024-09-05,Haunted Manor,Horror,165.67,Thu,15:00,80,69,86.25,5.1,PG-13,5479.76,Rainy,0
+2024-05-30,Deep Ocean,Documentary,90.84,Thu,10:00,120,120,100.0,7.5,18+,19112.99,Snow,0
+2024-07-01,Space Odyssey,Sci-Fi,157.33,Sat,20:00,120,68,56.67,6.8,PG,19072.65,Rainy,0
+2024-12-01,Haunted Manor,Horror,149.39,Thu,22:30,250,35,14.0,4.1,PG,7046.54,Sunny,0
+2024-04-04,Cartoon Fun,Animation,173.17,Thu,22:30,80,43,53.75,5.7,G,862.0,Cloudy,0
+2024-01-08,Love in Paris,Romance,154.78,Wed,20:00,200,94,47.0,6.4,PG,3581.9,Cloudy,1
+2024-12-25,Deep Ocean,Documentary,111.08,Tue,17:30,150,116,77.33,9.8,PG,7844.36,Rainy,0
+2024-07-02,Love in Paris,Romance,197.86,Thu,22:30,80,63,78.75,7.8,PG-13,18955.59,Sunny,0
+2024-10-07,Deep Ocean,Documentary,143.66,Sat,17:30,120,59,49.17,5.0,18+,2823.98,Rainy,0
+2024-07-13,Space Odyssey,Sci-Fi,148.91,Thu,10:00,250,80,32.0,7.7,G,15270.32,Cloudy,0
+2024-12-17,Haunted Manor,Horror,112.67,Wed,10:00,250,52,20.8,4.7,PG,2173.65,Snow,0
+2024-07-13,Rock Legends,Musical,132.27,Sun,20:00,150,97,64.67,8.6,18+,19625.15,Snow,0
+2024-06-03,Haunted Manor,Horror,114.61,Fri,20:00,250,128,51.2,6.3,R,7632.33,Snow,1
+2024-04-02,Love in Paris,Romance,143.08,Wed,17:30,250,106,42.4,6.9,PG-13,15504.69,Sunny,1
+2024-06-08,Deep Ocean,Documentary,218.47,Sun,10:00,80,80,100.0,9.0,PG,6851.82,Sunny,1
+2024-03-01,Mystery Case,Detective,95.12,Mon,10:00,200,48,24.0,5.1,PG,12553.38,Cloudy,0
+2024-05-01,Cartoon Fun,Animation,85.46,Sat,20:00,150,55,36.67,4.9,PG,3840.32,Sunny,0
+2024-02-20,Rock Legends,Musical,208.85,Thu,22:30,80,51,63.75,6.1,18+,2920.42,Cloudy,0
+2024-10-03,Love in Paris,Romance,141.63,Mon,15:00,200,80,40.0,8.6,PG-13,18761.28,Cloudy,0
+2024-01-05,Cartoon Fun,Animation,123.24,Thu,20:00,80,71,88.75,4.7,PG-13,18352.95,Rainy,0
+2024-04-01,Rock Legends,Musical,191.6,Fri,15:00,80,29,36.25,2.8,18+,17749.38,Snow,0
+2024-06-18,Cartoon Fun,Animation,125.78,Sun,10:00,250,67,26.8,6.3,G,12508.67,Snow,0
+2024-11-12,Deep Ocean,Documentary,223.04,Tue,20:00,200,68,34.0,7.8,PG-13,16165.36,Cloudy,0
+2024-01-22,Space Odyssey,Sci-Fi,177.12,Fri,22:30,150,94,62.67,8.8,18+,1380.74,Sunny,0
+2024-11-21,Love in Paris,Romance,130.48,Wed,22:30,150,55,36.67,6.3,18+,6695.78,Cloudy,0
+2024-01-01,Thunder Strike,Action,236.29,Wed,17:30,200,55,27.5,6.4,PG,6274.06,Snow,0
+2024-05-12,Mystery Case,Detective,125.77,Mon,12:30,250,104,41.6,8.7,18+,12712.91,Rainy,0
+2024-08-20,Thunder Strike,Action,179.68,Mon,10:00,120,43,35.83,4.2,PG,7119.16,Snow,0
+2024-01-12,Love in Paris,Romance,161.97,Wed,10:00,80,53,66.25,6.4,R,2970.14,Cloudy,0
+2024-12-11,Rock Legends,Musical,202.07,Sat,20:00,250,62,24.8,7.3,18+,11929.34,Cloudy,0
+2024-02-15,Love in Paris,Romance,212.46,Wed,12:30,200,86,43.0,7.7,PG-13,16287.68,Snow,0
+2024-02-03,Love in Paris,Romance,151.28,Wed,12:30,80,74,92.5,6.2,PG,7642.47,Snow,0
+2024-03-18,Deep Ocean,Documentary,119.86,Thu,12:30,150,64,42.67,7.1,R,2645.37,Sunny,0
+2024-08-05,Haunted Manor,Horror,168.4,Fri,20:00,120,38,31.67,3.3,G,3933.76,Rainy,0
+2024-10-27,Mystery Case,Detective,122.89,Sat,20:00,150,73,48.67,6.0,G,4749.67,Snow,0
+2024-03-13,Space Odyssey,Sci-Fi,230.54,Thu,15:00,200,77,38.5,7.7,G,5997.95,Rainy,0
+2024-10-08,Space Odyssey,Sci-Fi,155.46,Tue,15:00,80,63,78.75,5.5,PG,12855.9,Rainy,0
+2024-09-05,Cartoon Fun,Animation,135.39,Sat,15:00,200,84,42.0,7.1,18+,12018.91,Sunny,1
+2024-02-16,Space Odyssey,Sci-Fi,157.39,Thu,17:30,80,65,81.25,7.7,PG,13921.6,Cloudy,0
+2024-04-30,Mystery Case,Detective,96.11,Wed,10:00,250,101,40.4,6.5,G,7250.04,Rainy,0
+2024-08-01,Cartoon Fun,Animation,111.14,Thu,15:00,120,89,74.17,7.3,18+,16479.95,Rainy,0
+2024-08-26,Cartoon Fun,Animation,198.02,Mon,17:30,250,61,24.4,5.6,R,4081.75,Rainy,0
+2024-02-25,Rock Legends,Musical,123.72,Sat,17:30,250,77,30.8,6.7,G,9380.81,Rainy,0
+2024-12-15,Haunted Manor,Horror,108.12,Sun,20:00,200,83,41.5,7.9,PG-13,16018.77,Cloudy,0
+2024-04-16,Thunder Strike,Action,171.47,Wed,12:30,120,86,71.67,7.2,18+,3603.17,Sunny,1
+2024-11-14,Rock Legends,Musical,197.43,Fri,22:30,80,72,90.0,6.1,PG,2197.26,Rainy,0
+2024-02-17,Haunted Manor,Horror,178.76,Thu,12:30,80,80,100.0,7.3,PG,17673.68,Snow,0
+2024-03-01,Haunted Manor,Horror,189.84,Wed,15:00,150,61,40.67,8.1,PG-13,6858.59,Cloudy,0
+2024-12-02,Haunted Manor,Horror,119.73,Sat,22:30,80,52,65.0,3.9,PG,13677.4,Sunny,1
+2024-01-26,Love in Paris,Romance,93.13,Sun,10:00,200,107,53.5,8.7,PG-13,506.97,Snow,0
+2024-10-18,Rock Legends,Musical,210.05,Mon,22:30,250,62,24.8,6.5,G,13800.94,Snow,0
+2024-09-13,Thunder Strike,Action,137.09,Mon,22:30,250,94,37.6,7.6,G,6322.03,Snow,0
+2024-01-08,Deep Ocean,Documentary,139.97,Sat,10:00,250,126,50.4,8.8,PG,1114.82,Rainy,0
+2024-04-22,Haunted Manor,Horror,203.13,Sat,10:00,120,57,47.5,4.9,18+,12196.26,Rainy,0
+2024-12-20,Thunder Strike,Action,172.25,Thu,17:30,80,62,77.5,5.9,PG,4816.08,Snow,0
+2024-09-09,Deep Ocean,Documentary,168.24,Wed,17:30,200,61,30.5,6.6,G,7736.14,Sunny,0
+2024-06-28,Mystery Case,Detective,236.6,Fri,17:30,120,57,47.5,5.8,18+,1611.62,Rainy,0
+2024-07-25,Deep Ocean,Documentary,124.26,Sun,20:00,150,150,100.0,9.6,PG-13,2943.27,Sunny,1
+2024-10-29,Mystery Case,Detective,187.11,Sat,17:30,200,48,24.0,5.7,G,5959.54,Rainy,0
+2024-05-06,Space Odyssey,Sci-Fi,152.28,Sat,10:00,200,88,44.0,6.2,PG-13,1795.19,Rainy,1
+2024-02-25,Deep Ocean,Documentary,160.74,Tue,22:30,200,81,40.5,7.3,R,18216.53,Rainy,0
+2024-08-01,Mystery Case,Detective,211.14,Mon,10:00,250,36,14.4,5.2,18+,120.94,Sunny,0
+2024-01-14,Haunted Manor,Horror,170.31,Tue,22:30,200,63,31.5,6.4,G,9677.2,Rainy,0
+2024-01-28,Love in Paris,Romance,171.53,Sun,12:30,80,56,70.0,7.5,PG-13,2464.95,Sunny,0
+2024-03-18,Deep Ocean,Documentary,192.9,Fri,10:00,200,70,35.0,6.5,PG-13,6153.58,Rainy,0
+2024-08-03,Cartoon Fun,Animation,135.4,Sat,17:30,250,65,26.0,6.9,PG-13,18521.19,Cloudy,0
+2024-12-30,Mystery Case,Detective,116.43,Sun,17:30,200,67,33.5,6.2,PG,3233.89,Rainy,0
+2024-06-02,Rock Legends,Musical,108.21,Thu,22:30,150,57,38.0,4.7,PG,19316.65,Snow,0
+2024-01-14,Mystery Case,Detective,71.35,Mon,15:00,150,105,70.0,7.5,R,4115.89,Sunny,0
+2024-07-05,Deep Ocean,Documentary,232.25,Tue,20:00,250,79,31.6,9.6,R,14831.32,Cloudy,0
+2024-11-07,Mystery Case,Detective,105.87,Mon,10:00,80,80,100.0,7.0,PG-13,10933.55,Sunny,0
+2024-01-07,Thunder Strike,Action,141.15,Tue,20:00,80,80,100.0,7.3,PG,17689.57,Rainy,0
+2024-01-03,Rock Legends,Musical,138.93,Sun,10:00,120,120,100.0,8.0,18+,11079.87,Snow,1
+2024-04-20,Deep Ocean,Documentary,162.3,Sat,12:30,250,51,20.4,5.1,18+,10691.18,Snow,0
+2024-08-25,Love in Paris,Romance,182.63,Wed,12:30,200,90,45.0,9.6,PG-13,3909.16,Snow,0
+2024-12-28,Thunder Strike,Action,184.42,Wed,22:30,250,71,28.4,7.3,PG,3324.59,Rainy,0
+2024-08-26,Rock Legends,Musical,126.68,Thu,20:00,120,106,88.33,9.4,18+,18329.78,Rainy,0
+2024-09-30,Cartoon Fun,Animation,143.32,Fri,17:30,250,89,35.6,5.9,PG,6556.76,Snow,1
+2024-10-20,Mystery Case,Detective,161.3,Mon,15:00,250,130,52.0,9.7,R,7441.65,Rainy,0
+2024-08-14,Mystery Case,Detective,140.05,Fri,10:00,120,105,87.5,8.2,PG-13,15196.47,Rainy,0
+2024-01-15,Space Odyssey,Sci-Fi,214.29,Tue,10:00,80,59,73.75,7.8,PG-13,6776.47,Cloudy,0
+2024-07-10,Rock Legends,Musical,169.64,Sat,22:30,200,96,48.0,7.4,PG,19041.25,Rainy,0
+2024-04-28,Mystery Case,Detective,179.4,Thu,15:00,120,63,52.5,6.6,PG,14758.56,Cloudy,1
+2024-01-28,Space Odyssey,Sci-Fi,176.52,Wed,20:00,150,85,56.67,8.8,G,11948.58,Snow,0
+2024-07-20,Space Odyssey,Sci-Fi,196.94,Wed,20:00,80,62,77.5,7.2,18+,17617.9,Sunny,0
+2024-02-08,Deep Ocean,Documentary,157.24,Thu,22:30,150,49,32.67,4.0,R,992.12,Rainy,0
+2024-09-29,Mystery Case,Detective,98.13,Sun,10:00,80,61,76.25,5.3,18+,5141.25,Snow,0
+2024-08-18,Thunder Strike,Action,165.99,Mon,12:30,200,73,36.5,6.7,G,9300.73,Snow,0
+2024-03-26,Cartoon Fun,Animation,123.95,Fri,15:00,200,103,51.5,7.5,PG,4539.57,Rainy,0
+2024-05-05,Thunder Strike,Action,128.86,Tue,10:00,250,79,31.6,6.9,18+,14878.1,Sunny,0
+2024-10-26,Thunder Strike,Action,173.45,Fri,12:30,150,111,74.0,8.8,PG-13,18384.16,Sunny,1
+2024-01-25,Mystery Case,Detective,199.53,Wed,20:00,80,37,46.25,4.1,18+,8475.4,Rainy,0
+2024-05-24,Haunted Manor,Horror,150.85,Thu,12:30,200,72,36.0,7.2,PG,6842.65,Snow,0
+2024-01-13,Love in Paris,Romance,162.35,Wed,22:30,120,47,39.17,4.3,18+,19231.01,Rainy,0
+2024-07-30,Space Odyssey,Sci-Fi,218.09,Sat,17:30,200,69,34.5,8.1,G,8897.05,Sunny,1
+2024-01-25,Mystery Case,Detective,159.63,Wed,10:00,120,93,77.5,6.9,R,9780.97,Rainy,0
+2024-03-08,Deep Ocean,Documentary,254.07,Tue,15:00,80,59,73.75,7.6,PG,7033.0,Snow,0
+2024-03-07,Space Odyssey,Sci-Fi,172.62,Mon,12:30,200,48,24.0,5.7,PG-13,18190.97,Sunny,0
+2024-08-20,Cartoon Fun,Animation,79.57,Mon,20:00,200,121,60.5,8.9,G,11379.11,Sunny,0
+2024-04-18,Haunted Manor,Horror,180.13,Sat,12:30,80,76,95.0,8.6,PG,15243.49,Sunny,0
+2024-05-25,Love in Paris,Romance,165.25,Tue,20:00,200,82,41.0,7.9,PG-13,16236.13,Snow,0
+2024-04-20,Mystery Case,Detective,201.59,Thu,17:30,120,76,63.33,6.8,PG-13,6836.98,Rainy,0
+2024-08-15,Cartoon Fun,Animation,176.93,Fri,22:30,200,82,41.0,7.9,PG,8673.89,Sunny,0
+2024-04-20,Rock Legends,Musical,144.46,Thu,20:00,150,77,51.33,5.9,G,16969.44,Snow,0
+2024-02-03,Haunted Manor,Horror,101.03,Fri,15:00,250,123,49.2,8.3,PG-13,7265.11,Snow,1
+2024-04-20,Thunder Strike,Action,141.64,Mon,17:30,120,120,100.0,9.5,R,15878.7,Cloudy,1
+2024-09-20,Haunted Manor,Horror,115.98,Wed,22:30,150,105,70.0,8.6,G,18819.85,Sunny,0
+2024-08-23,Cartoon Fun,Animation,126.78,Sun,12:30,80,65,81.25,5.9,PG-13,12464.21,Snow,0
+2024-03-23,Mystery Case,Detective,173.54,Wed,22:30,120,74,61.67,7.5,PG,14832.55,Rainy,0
+2024-02-11,Haunted Manor,Horror,216.8,Sat,22:30,250,54,21.6,5.1,PG,16101.95,Snow,0
+2024-04-10,Mystery Case,Detective,165.79,Thu,10:00,250,72,28.8,7.9,G,16900.79,Snow,0
+2024-01-06,Deep Ocean,Documentary,102.16,Tue,20:00,80,80,100.0,7.7,PG-13,7901.07,Cloudy,0
+2024-06-28,Mystery Case,Detective,167.78,Fri,22:30,80,39,48.75,4.2,PG-13,1025.27,Sunny,0
+2024-10-08,Cartoon Fun,Animation,197.87,Wed,15:00,120,51,42.5,5.3,G,8037.53,Snow,0
+2024-11-15,Love in Paris,Romance,125.61,Sat,10:00,200,68,34.0,6.6,G,13475.12,Rainy,0
+2024-08-13,Deep Ocean,Documentary,144.64,Thu,10:00,80,75,93.75,6.5,G,9007.01,Cloudy,0
+2024-11-10,Love in Paris,Romance,150.59,Tue,17:30,200,58,29.0,5.2,R,14979.26,Snow,0
+2024-12-30,Haunted Manor,Horror,118.6,Mon,12:30,150,102,68.0,7.6,R,7139.65,Rainy,0
+2024-08-16,Thunder Strike,Action,175.93,Tue,10:00,250,72,28.8,7.4,R,12694.88,Sunny,0
+2024-10-15,Rock Legends,Musical,145.16,Sun,15:00,200,73,36.5,6.7,PG,3728.4,Cloudy,0
+2024-05-29,Cartoon Fun,Animation,166.78,Mon,20:00,250,78,31.2,5.9,R,14987.39,Snow,0
+2024-10-03,Love in Paris,Romance,114.5,Thu,20:00,200,97,48.5,8.6,R,10913.92,Cloudy,0
+2024-07-16,Rock Legends,Musical,132.5,Tue,20:00,150,150,100.0,9.5,R,4081.29,Rainy,1
+2024-03-10,Space Odyssey,Sci-Fi,178.9,Sat,17:30,80,66,82.5,6.3,PG-13,5838.22,Sunny,0
+2024-04-21,Mystery Case,Detective,135.09,Thu,15:00,150,67,44.67,6.1,18+,14972.17,Sunny,0
+2024-01-04,Love in Paris,Romance,219.08,Mon,10:00,80,54,67.5,7.7,R,9652.02,Sunny,0
+2024-12-15,Deep Ocean,Documentary,134.01,Sun,22:30,80,75,93.75,6.5,G,4320.63,Sunny,1
+2024-11-26,Cartoon Fun,Animation,158.99,Sat,15:00,250,116,46.4,6.8,R,19345.42,Snow,1
+2024-11-13,Mystery Case,Detective,187.3,Sun,17:30,150,80,53.33,8.1,18+,14302.5,Rainy,0
+2024-12-15,Rock Legends,Musical,93.27,Wed,17:30,200,68,34.0,4.1,PG,19142.7,Cloudy,1
+2024-04-04,Cartoon Fun,Animation,79.57,Sat,12:30,150,131,87.33,9.0,PG,8542.1,Snow,0
+2024-05-31,Love in Paris,Romance,88.97,Wed,15:00,250,75,30.0,7.1,R,9502.01,Cloudy,0
+2024-11-06,Thunder Strike,Action,200.5,Sat,20:00,80,55,68.75,6.4,G,17959.1,Sunny,0
+2024-05-16,Deep Ocean,Documentary,127.93,Mon,17:30,250,72,28.8,6.9,G,10500.99,Rainy,0
+2024-09-03,Space Odyssey,Sci-Fi,252.33,Fri,17:30,120,68,56.67,6.9,PG-13,14145.58,Snow,1
+2024-08-30,Cartoon Fun,Animation,127.43,Fri,12:30,120,48,40.0,4.4,G,5043.46,Cloudy,0
+2024-01-31,Thunder Strike,Action,157.38,Wed,22:30,200,114,57.0,9.2,PG-13,8934.53,Cloudy,1
+2024-02-09,Love in Paris,Romance,211.68,Wed,20:00,250,74,29.6,7.1,PG-13,2469.0,Snow,0
+2024-08-16,Deep Ocean,Documentary,230.24,Sun,22:30,200,63,31.5,7.7,G,4119.6,Cloudy,0
+2024-02-05,Mystery Case,Detective,232.46,Tue,17:30,200,67,33.5,8.4,G,18.87,Cloudy,0
+2024-08-10,Rock Legends,Musical,198.33,Sat,10:00,120,44,36.67,5.5,PG-13,785.3,Snow,0
+2024-01-06,Love in Paris,Romance,190.96,Sat,20:00,200,70,35.0,7.7,PG,19545.68,Rainy,0
+2024-11-17,Haunted Manor,Horror,173.7,Sat,15:00,120,73,60.83,6.6,R,4847.07,Snow,0
+2024-08-07,Space Odyssey,Sci-Fi,181.13,Sat,12:30,80,80,100.0,8.3,PG,13266.21,Snow,1
+2024-03-15,Space Odyssey,Sci-Fi,127.95,Tue,22:30,250,55,22.0,3.8,G,16781.99,Rainy,0
+2024-01-04,Mystery Case,Detective,117.27,Sun,10:00,200,86,43.0,6.9,18+,11013.21,Cloudy,0
+2024-11-30,Deep Ocean,Documentary,149.87,Wed,10:00,120,67,55.83,6.1,G,3062.89,Snow,0
+2024-05-13,Love in Paris,Romance,143.19,Fri,15:00,150,76,50.67,7.6,PG-13,14562.33,Cloudy,0
+2024-04-27,Love in Paris,Romance,131.87,Tue,12:30,200,104,52.0,7.7,18+,12005.03,Cloudy,1
+2024-04-03,Thunder Strike,Action,177.86,Mon,17:30,80,46,57.5,5.9,18+,14625.01,Cloudy,0
+2024-03-02,Haunted Manor,Horror,188.21,Tue,22:30,80,50,62.5,5.9,R,15394.93,Snow,0
+2024-07-12,Rock Legends,Musical,153.54,Sun,22:30,150,95,63.33,6.8,G,19508.21,Rainy,0
+2024-11-30,Deep Ocean,Documentary,209.1,Tue,12:30,120,40,33.33,5.7,R,11471.27,Sunny,0
+2024-07-21,Cartoon Fun,Animation,104.33,Tue,22:30,200,102,51.0,8.3,PG,6832.82,Rainy,0
+2024-01-26,Rock Legends,Musical,142.25,Sun,17:30,120,66,55.0,6.4,18+,12969.29,Snow,0
+2024-06-21,Haunted Manor,Horror,121.33,Thu,15:00,80,40,50.0,2.6,R,1368.81,Rainy,0
+2024-10-26,Rock Legends,Musical,75.34,Mon,15:00,120,82,68.33,6.4,PG,17947.95,Sunny,0
+2024-05-12,Love in Paris,Romance,146.69,Wed,10:00,80,70,87.5,5.4,G,2387.62,Rainy,0
+2024-11-21,Deep Ocean,Documentary,145.13,Fri,10:00,120,64,53.33,4.6,G,6556.86,Snow,0
+2024-04-27,Rock Legends,Musical,210.54,Fri,10:00,150,38,25.33,5.1,PG-13,16314.91,Cloudy,0
+2024-11-19,Mystery Case,Detective,175.23,Wed,15:00,250,68,27.2,7.2,PG,11946.25,Sunny,0
+2024-10-01,Space Odyssey,Sci-Fi,109.03,Thu,17:30,150,100,66.67,9.0,PG,7872.71,Rainy,0
+2024-07-30,Cartoon Fun,Animation,224.16,Sun,15:00,150,59,39.33,7.5,R,9468.71,Snow,0
+2024-08-12,Thunder Strike,Action,198.84,Fri,15:00,250,75,30.0,6.1,18+,17090.95,Sunny,1
+2024-01-20,Deep Ocean,Documentary,173.28,Tue,10:00,250,78,31.2,7.7,18+,6800.09,Sunny,0
+2024-04-22,Deep Ocean,Documentary,140.94,Fri,12:30,200,73,36.5,6.3,PG-13,17392.99,Rainy,0
+2024-05-19,Thunder Strike,Action,111.62,Mon,10:00,200,99,49.5,6.0,PG-13,1762.69,Snow,1
+2024-02-16,Cartoon Fun,Animation,135.11,Mon,12:30,150,67,44.67,5.3,PG-13,15535.97,Snow,0
+2024-01-01,Love in Paris,Romance,193.55,Wed,17:30,150,29,19.33,4.4,PG,16950.95,Sunny,0
+2024-03-30,Cartoon Fun,Animation,225.38,Thu,17:30,80,43,53.75,6.4,G,3636.35,Sunny,0
+2024-05-21,Cartoon Fun,Animation,211.73,Sat,20:00,80,50,62.5,7.2,G,8606.93,Cloudy,0
+2024-11-15,Space Odyssey,Sci-Fi,130.45,Sat,20:00,200,78,39.0,6.9,R,3310.0,Rainy,0
+2024-02-07,Rock Legends,Musical,105.22,Thu,20:00,200,82,41.0,6.4,18+,14132.08,Cloudy,0
+2024-10-19,Mystery Case,Detective,155.64,Fri,17:30,80,64,80.0,5.6,18+,10706.96,Sunny,1
+2024-05-18,Thunder Strike,Action,79.26,Thu,10:00,80,80,100.0,7.9,R,12706.47,Sunny,0
+2024-12-21,Love in Paris,Romance,162.93,Sun,10:00,120,57,47.5,5.0,PG,3929.74,Snow,0
+2024-11-28,Deep Ocean,Documentary,144.1,Thu,10:00,120,114,95.0,8.2,G,4234.92,Snow,0
